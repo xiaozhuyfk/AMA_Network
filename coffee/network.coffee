@@ -1,6 +1,68 @@
 
 root = exports ? this
 
+
+http =
+
+  get: (options, callback)->
+    options.method = 'get'
+    @request options, callback
+
+  post: (options, callback)->
+    options.method = 'post'
+    @request options, callback
+
+  request: (options, callback)->
+    method = options.method?.toLowerCase() or 'get'
+    url = options.url
+    dataType = options.dataType?.toLowerCase()
+    data = options.data
+    unless data instanceof FormData
+      if dataType is 'json'
+        contentType = 'application/json;charset=UTF-8'
+      else
+        contentType = 'application/x-www-form-urlencoded;charset=UTF-8'
+    if data?
+      if contentType? and typeof data is 'object'
+        switch dataType
+          when 'json'
+            data = JSON.stringify data
+          else
+            data = querystring.stringify data
+      if method is 'get'
+        url = "#{url}?#{data}"
+        data = null
+
+    xhr = new (window.ActiveXObject or XMLHttpRequest)('Microsoft.XMLHTTP')
+    if options.onProgress?
+      xhr.upload.onprogress = (e)->
+        if e.lengthComputable
+          options.onProgress e.loaded / e.total
+    if options.onComplete?
+      xhr.upload.onload = (e)->
+        options.onComplete()
+    if callback?
+      xhr.onreadystatechange = (e)->
+        if xhr.readyState is 4
+          if xhr.status in [0, 200]
+            data = xhr.responseText
+            try
+              data = JSON.parse data
+            catch err
+              try
+                data = querystring.parse data
+              catch err
+            callback null, data
+          else
+            callback
+              code   : xhr.status
+              message: "#{xhr.status} (#{xhr.statusText})" + if xhr.responseText then ": #{xhr.responseText}" else ''
+    xhr.open method, url, true
+    xhr.overrideMimeType? 'text/plain'
+    xhr.setRequestHeader 'X-Requested-With', 'XMLHttpRequest'
+    if contentType then xhr.setRequestHeader 'content-type', contentType
+    xhr.send data
+
 # Help with the placement of nodes
 RadialPlacement = () ->
 # stores the key -> location values
@@ -221,12 +283,12 @@ Network = () ->
   # Public function to update highlighted nodes
   # from search
   network.updateSearch = (searchTerm) ->
-    request = require 'request'
-
-    resp = ""
-    request.get {uri:'http://ec2-54-165-176-51.compute-1.amazonaws.com:5000/ama/' + searchTerm, json : true}, (err, r, body) ->
-      resp = body
-      console.log "BODY: " + JSON.stringify(resp)
+    resp = http.get({url :'http://ec2-54-165-176-51.compute-1.amazonaws.com:5000/network/' + searchTerm, dataType : 'json'})
+    console.log "BODY:" + JSON.stringify(resp)
+    #resp = ""
+    #request.get {uri:'http://ec2-54-165-176-51.compute-1.amazonaws.com:5000/ama/' + searchTerm, json : true}, (err, r, body) ->
+    #  resp = body
+    #  console.log "BODY: " + JSON.stringify(resp)
 
   network.updateData = (newData) ->
     allData = setupData(newData)
@@ -511,9 +573,11 @@ $ ->
     d3.json "data/#{songFile}", (json) ->
       myNetwork.updateData(json)
 
-  $("#search").keyup () ->
-    searchTerm = $(this).val()
-    myNetwork.updateSearch(searchTerm)
+  $("#search").keyup (e) ->
+    if e.which is 13
+      console.log "haha"
+      searchTerm = $(this).val()
+      myNetwork.updateSearch(searchTerm)
 
-  d3.json "data/call_me_al.json", (json) ->
+  d3.json "data/bigos.json", (json) ->
     myNetwork("#vis", json)
