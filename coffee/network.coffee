@@ -64,7 +64,7 @@ http =
 
 # Help with the placement of nodes
 RadialPlacement = () ->
-# stores the key -> location values
+    # stores the key -> location values
     values = d3.map()
     # how much to separate each location by
     increment = 20
@@ -105,7 +105,7 @@ RadialPlacement = () ->
     # If there are a small number of keys, just make
     # one circle.
     setKeys = (keys) ->
-# start with an empty values
+        # start with an empty values
         values = d3.map()
 
         # number of keys to go in first circle
@@ -166,24 +166,26 @@ graph = null
 top5 = null
 
 Network = () ->
-# variables we want to access
-# in multiple places of Network
     width = 960
     height = 800
+
     # allData will store the unfiltered data
     allData = []
     curLinksData = []
     curNodesData = []
     linkedByIndex = {}
+
     # these will hold the svg groups for
     # accessing the nodes and links display
     vis = null
     nodesG = null
     linksG = null
+
     # these will point to the circles and lines
     # of the nodes and links
     node = null
     link = null
+
     # variables to refect the current settings
     # of the visualization
     layout = "force"
@@ -191,8 +193,10 @@ Network = () ->
 
     # our force directed layout
     force = d3.layout.force()
+
     # color function used to color nodes
     nodeColors = d3.scale.category20()
+
     # tooltip used to display details
     tooltip = Tooltip("vis-tooltip", 230)
 
@@ -237,21 +241,9 @@ Network = () ->
     # update() is called everytime a parameter changes
     # and the network needs to be reset.
     update = () ->
-    # filter data to show based on current filter settings.
+        # filter data to show based on current filter settings.
         curNodesData = filterNodes(allData.nodes)
         curLinksData = filterLinks(allData.links, curNodesData)
-
-        # sort nodes based on current sort and update centers for
-        # radial layout
-
-        #if layout == "top5"
-        #  if top5 is not null
-        #    network.updateData(top5)
-        #else if layout == "force"
-        #  if graph is not null
-        #    network.updateData(graph)
-        #artists = sortedArtists(curNodesData, curLinksData)
-        #updateCenters(artists)
 
         # reset nodes in force layout
         force.nodes(curNodesData)
@@ -284,7 +276,7 @@ Network = () ->
     # from search
     network.updateSearch = (searchTerm) ->
         http.get {
-            url: 'http://ec2-54-165-176-51.compute-1.amazonaws.com:443/network/' + searchTerm,
+            url: 'https://ec2-54-165-176-51.compute-1.amazonaws.com:443/network/' + searchTerm,
             dataType: 'json'
         }, (code, data) ->
 
@@ -339,7 +331,6 @@ Network = () ->
             # of the visualization
             n.x = randomnumber = Math.floor(Math.random() * width)
             n.y = randomnumber = Math.floor(Math.random() * height)
-            # add radius to the node so we can use it later
             n.radius = circleRadius(n.playcount)
 
         # id's -> node objects
@@ -351,7 +342,6 @@ Network = () ->
             if not l.source.id
               l.source = nodesMap.get(l.source)
               l.target = nodesMap.get(l.target)
-
 
             # linkedByIndex is used for link sorting
             linkedByIndex["#{l.source.id},#{l.target.id}"] = 1
