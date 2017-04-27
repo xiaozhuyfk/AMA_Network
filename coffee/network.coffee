@@ -177,6 +177,7 @@ Network = () ->
     linkedByIndex = {}
     # these will hold the svg groups for
     # accessing the nodes and links display
+    vis = null
     nodesG = null
     linksG = null
     # these will point to the circles and lines
@@ -187,10 +188,6 @@ Network = () ->
     # of the visualization
     layout = "force"
     filter = "all"
-    sort = "songs"
-    # groupCenters will store our radial layout for
-    # the group by artist layout.
-    groupCenters = null
 
     # our force directed layout
     force = d3.layout.force()
@@ -199,21 +196,27 @@ Network = () ->
     # tooltip used to display details
     tooltip = Tooltip("vis-tooltip", 230)
 
-    # charge used in artist layout
-    charge = (node) -> -Math.pow(node.radius, 2.0) / 2
-
     # Starting point for network visualization
     # Initializes visualization and starts force layout
     network = (selection, data) ->
-# format our data
-        allData = setupData(data)
+        # format our data
+        graph = data.graph
+        top5 = data.top5
+
+        margin = {top : -5, right : -5, bottom : -5, left : -5}
+
+        allData = setupData(data.graph)
+        zoom = d3.behavior.zoom().scaleExtent([1, 1]).on("zoom", zoomed)
 
         # create our svg and groups
         vis = d3.select(selection).append("svg")
             .attr("width", width)
             .attr("height", height)
-        linksG = vis.append("g").attr("id", "links")
-        nodesG = vis.append("g").attr("id", "nodes")
+            .attr("transform", "translate(" + margin.left + "," + margin.right + ")")
+            .call(zoom)
+
+        linksG = vis.append("svg").append("g").attr("id", "links")
+        nodesG = vis.append("svg").append("g").attr("id", "nodes")
 
         # setup the size of the force environment
         force.size([width, height])
@@ -224,6 +227,9 @@ Network = () ->
         # perform rendering and start force layout
         update()
 
+    zoomed = () ->
+        vis.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")")
+
     # The update() function performs the bulk of the
     # work to setup our visualization based on the
     # current layout/sort/filter.
@@ -231,7 +237,7 @@ Network = () ->
     # update() is called everytime a parameter changes
     # and the network needs to be reset.
     update = () ->
-# filter data to show based on current filter settings.
+    # filter data to show based on current filter settings.
         curNodesData = filterNodes(allData.nodes)
         curLinksData = filterLinks(allData.links, curNodesData)
 
@@ -273,34 +279,34 @@ Network = () ->
             node.remove()
             update()
 
-    # Public function to switch between layouts
-    network.toggleLayout = (newLayout) ->
-        force.stop()
-        setLayout(newLayout)
-    #update()
-
-    # Public function to switch between filter options
-    network.toggleFilter = (newFilter) ->
-        force.stop()
-        setFilter(newFilter)
-        update()
-
-    # Public function to switch between sort options
-    network.toggleSort = (newSort) ->
-        force.stop()
-        setSort(newSort)
-        update()
-
 
     # Public function to update highlighted nodes
     # from search
     network.updateSearch = (searchTerm) ->
         http.get {
-            url: 'http://ec2-54-165-176-51.compute-1.amazonaws.com:5000/network/' + searchTerm,
+            url: 'http://ec2-54-165-176-51.compute-1.amazonaws.com:443/network/' + searchTerm,
             dataType: 'json'
         }, (code, data) ->
-            graph = data.graph
-            top5 = data.top5
+
+            if typeof data.graph != 'undefined'
+                graph = data.graph
+                top5 = data.top5
+            else
+                empty = {
+                    nodes : [
+                        {
+                            artist : "",
+                            id : "EMPTY",
+                            match : 1.0,
+                            name : "Sorry, I don't know the answer.",
+                            playcount : 10
+                        }
+                    ],
+                    links : []
+                }
+                graph = empty
+                top5 = empty
+
             if layout == "force"
                 allData = setupData(graph)
                 link.remove()
@@ -313,11 +319,6 @@ Network = () ->
                     node.remove()
                     update()
 
-    #resp = ""
-    #request.get {uri:'http://ec2-54-165-176-51.compute-1.amazonaws.com:5000/ama/' + searchTerm, json : true}, (err, r, body) ->
-    #  resp = body
-    #  console.log "BODY: " + JSON.stringify(resp)
-
 
     network.updateData = (newData) ->
         allData = setupData(newData)
@@ -329,13 +330,13 @@ Network = () ->
     # point to node instances
     # Returns modified data
     setupData = (data) ->
-# initialize circle radius scale
+        # initialize circle radius scale
         countExtent = d3.extent(data.nodes, (d) -> d.playcount)
         circleRadius = d3.scale.sqrt().range([3, 12]).domain(countExtent)
 
         data.nodes.forEach (n) ->
-# set initial x/y to values within the width/height
-# of the visualization
+            # set initial x/y to values within the width/height
+            # of the visualization
             n.x = randomnumber = Math.floor(Math.random() * width)
             n.y = randomnumber = Math.floor(Math.random() * height)
             # add radius to the node so we can use it later
@@ -346,8 +347,11 @@ Network = () ->
 
         # switch links to point to node objects instead of id's
         data.links.forEach (l) ->
-            l.source = nodesMap.get(l.source)
-            l.target = nodesMap.get(l.target)
+
+            if not l.source.id
+              l.source = nodesMap.get(l.source)
+              l.target = nodesMap.get(l.target)
+
 
             # linkedByIndex is used for link sorting
             linkedByIndex["#{l.source.id},#{l.target.id}"] = 1
@@ -361,23 +365,6 @@ Network = () ->
         nodes.forEach (n) ->
             nodesMap.set(n.id, n)
         nodesMap
-
-    # Helper function that returns an associative array
-    # with counts of unique attr in nodes
-    # attr is value stored in node, like 'artist'
-    nodeCounts = (nodes, attr) ->
-        counts = {}
-        nodes.forEach (d) ->
-            counts[d[attr]] ?= 0
-            counts[d[attr]] += 1
-        counts
-
-    # Given two nodes a and b, returns true if
-    # there is a link between them.
-    # Uses linkedByIndex initialized in setupData
-    neighboring = (a, b) ->
-        linkedByIndex[a.id + "," + b.id] or
-            linkedByIndex[b.id + "," + a.id]
 
     # Removes nodes from input array
     # based on current filter setting.
@@ -394,40 +381,6 @@ Network = () ->
                     n.playcount <= cutoff
 
         filteredNodes
-
-    # Returns array of artists sorted based on
-    # current sorting method.
-    sortedArtists = (nodes, links) ->
-        artists = []
-        if sort == "links"
-            counts = {}
-            links.forEach (l) ->
-                counts[l.source.artist] ?= 0
-                counts[l.source.artist] += 1
-                counts[l.target.artist] ?= 0
-                counts[l.target.artist] += 1
-            # add any missing artists that dont have any links
-            nodes.forEach (n) ->
-                counts[n.artist] ?= 0
-
-            # sort based on counts
-            artists = d3.entries(counts).sort (a, b) ->
-                b.value - a.value
-            # get just names
-            artists = artists.map (v) -> v.key
-        else
-# sort artists by song count
-            counts = nodeCounts(nodes, "artist")
-            artists = d3.entries(counts).sort (a, b) ->
-                b.value - a.value
-            artists = artists.map (v) -> v.key
-
-        artists
-
-    updateCenters = (artists) ->
-        if layout == "radial"
-            groupCenters = RadialPlacement().center({"x": width / 2, "y": height / 2 - 100})
-                .radius(300).increment(18).keys(artists)
 
     # Removes links from allLinks whose
     # source or target is not present in curNodes
@@ -450,6 +403,7 @@ Network = () ->
             .style("fill", (d) -> nodeColors(d.artist))
             .style("stroke", (d) -> strokeFor(d))
             .style("stroke-width", 1.0)
+            .call(force.drag)
 
         node.on("mouseover", showDetails)
             .on("mouseout", hideDetails)
@@ -481,9 +435,6 @@ Network = () ->
     setFilter = (newFilter) ->
         filter = newFilter
 
-    # switches sort option to new sort
-    setSort = (newSort) ->
-        sort = newSort
 
     # tick function for force directed layout
     forceTick = (e) ->
@@ -497,33 +448,15 @@ Network = () ->
             .attr("x2", (d) -> d.target.x)
             .attr("y2", (d) -> d.target.y)
 
-    # tick function for radial layout
-    radialTick = (e) ->
-        node.each(moveToRadialLayout(e.alpha))
-
-        node
-            .attr("cx", (d) -> d.x)
-            .attr("cy", (d) -> d.y)
-
-        if e.alpha < 0.03
-            force.stop()
-            updateLinks()
-
-    # Adjusts x/y for each node to
-    # push them towards appropriate location.
-    # Uses alpha to dampen effect over time.
-    moveToRadialLayout = (alpha) ->
-        k = alpha * 0.1
-        (d) ->
-            centerNode = groupCenters(d.artist)
-            d.x += (centerNode.x - d.x) * k
-            d.y += (centerNode.y - d.y) * k
-
 
     # Helper function that returns stroke color for
     # particular node.
     strokeFor = (d) ->
         d3.rgb(nodeColors(d.artist)).darker().toString()
+
+    neighboring = (a, b) ->
+        linkedByIndex[a.id + "," + b.id] or
+            linkedByIndex[b.id + "," + a.id]
 
     # Mouseover tooltip function
     showDetails = (d, i) ->
@@ -537,20 +470,16 @@ Network = () ->
             link.attr("stroke", (l) ->
                 if l.source == d or l.target == d then "#555" else "#ddd"
             )
-                .attr("stroke-opacity", (l) ->
+            .attr("stroke-opacity", (l) ->
                 if l.source == d or l.target == d then 1.0 else 0.5
             )
-
-        # link.each (l) ->
-        #   if l.source == d or l.target == d
-        #     d3.select(this).attr("stroke", "#555")
 
         # highlight neighboring nodes
         # watch out - don't mess with node if search is currently matching
         node.style("stroke", (n) ->
             if (n.searched or neighboring(d, n)) then "#555" else strokeFor(n))
             .style("stroke-width", (n) ->
-            if (n.searched or neighboring(d, n)) then 2.0 else 1.0)
+                if (n.searched or neighboring(d, n)) then 2.0 else 1.0)
 
         # highlight the node being moused over
         d3.select(this).style("stroke", "black")
