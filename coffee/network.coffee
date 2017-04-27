@@ -288,7 +288,7 @@ Network = () ->
             dataType: 'json'
         }, (code, data) ->
 
-            if typeof data.graph != 'undefined'
+            if typeof data.graph isnt 'undefined'
                 graph = data.graph
                 top5 = data.top5
             else
