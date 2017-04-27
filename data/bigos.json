@@ -270,7 +270,7 @@
       "playcount": 10
     },
     {
-      "artist": "organization.organization.phone_number..common.phone_number.service_location",
+      "artist": "RELATION",
       "id": "organization.organization.phone_number..common.phone_number.service_location",
       "match": 1.0,
       "name": "phone-number-service-location",
@@ -284,7 +284,7 @@
       "playcount": 5
     },
     {
-      "artist": "organization.organization.phone_number..common.phone_number.country_code",
+      "artist": "RELATION",
       "id": "organization.organization.phone_number..common.phone_number.country_code",
       "match": 1.0,
       "name": "phone-number-country-code",
@@ -298,7 +298,7 @@
       "playcount": 5
     },
     {
-      "artist": "business.employer.employees..business.employment_tenure.title",
+      "artist": "RELATION",
       "id": "business.employer.employees..business.employment_tenure.title",
       "match": 1.0,
       "name": "employment-tenure-title",
@@ -319,7 +319,7 @@
       "playcount": 5
     },
     {
-      "artist": "organization.organization.headquarters..location.mailing_address.citytown",
+      "artist": "RELATION",
       "id": "organization.organization.headquarters..location.mailing_address.citytown",
       "match": 1.0,
       "name": "mailing-address-citytown",
@@ -333,7 +333,7 @@
       "playcount": 5
     },
     {
-      "artist": "organization.organization.leadership..organization.leadership.from",
+      "artist": "RELATION",
       "id": "organization.organization.leadership..organization.leadership.from",
       "match": 1.0,
       "name": "leadership-from",
@@ -347,7 +347,7 @@
       "playcount": 5
     },
     {
-      "artist": "common.topic.alias",
+      "artist": "RELATION",
       "id": "common.topic.alias",
       "match": 1.0,
       "name": "topic-alias",
@@ -375,7 +375,7 @@
       "playcount": 5
     },
     {
-      "artist": "organization.organization.date_founded",
+      "artist": "RELATION",
       "id": "organization.organization.date_founded",
       "match": 1.0,
       "name": "organization-date-founded",
@@ -389,7 +389,7 @@
       "playcount": 5
     },
     {
-      "artist": "business.issuer.issue",
+      "artist": "RELATION",
       "id": "business.issuer.issue",
       "match": 1.0,
       "name": "issuer-issue",
@@ -403,7 +403,7 @@
       "playcount": 5
     },
     {
-      "artist": "venture_capital.venture_funded_company.venture_investors..venture_capital.venture_investment.investor",
+      "artist": "RELATION",
       "id": "venture_capital.venture_funded_company.venture_investors..venture_capital.venture_investment.investor",
       "match": 1.0,
       "name": "venture-investment-investor",
@@ -417,7 +417,7 @@
       "playcount": 5
     },
     {
-      "artist": "organization.organization.founders",
+      "artist": "RELATION",
       "id": "organization.organization.founders",
       "match": 1.0,
       "name": "organization-founders",
@@ -438,7 +438,7 @@
       "playcount": 5
     },
     {
-      "artist": "common.topic.webpage..common.webpage.category",
+      "artist": "RELATION",
       "id": "common.topic.webpage..common.webpage.category",
       "match": 1.0,
       "name": "webpage-category",
@@ -452,7 +452,7 @@
       "playcount": 5
     },
     {
-      "artist": "organization.organization.board_members..organization.organization_board_membership.from",
+      "artist": "RELATION",
       "id": "organization.organization.board_members..organization.organization_board_membership.from",
       "match": 1.0,
       "name": "organization-board-membership-from",
@@ -466,7 +466,7 @@
       "playcount": 5
     },
     {
-      "artist": "organization.organization.leadership..organization.leadership.title",
+      "artist": "RELATION",
       "id": "organization.organization.leadership..organization.leadership.title",
       "match": 1.0,
       "name": "leadership-title",
@@ -480,7 +480,7 @@
       "playcount": 5
     },
     {
-      "artist": "business.business_operation.industry",
+      "artist": "RELATION",
       "id": "business.business_operation.industry",
       "match": 1.0,
       "name": "business-operation-industry",
@@ -494,7 +494,7 @@
       "playcount": 5
     },
     {
-      "artist": "common.topic.official_website",
+      "artist": "RELATION",
       "id": "common.topic.official_website",
       "match": 1.0,
       "name": "topic-official-website",
@@ -508,7 +508,7 @@
       "playcount": 5
     },
     {
-      "artist": "common.topic.webpage..common.webpage.description",
+      "artist": "RELATION",
       "id": "common.topic.webpage..common.webpage.description",
       "match": 1.0,
       "name": "webpage-description",
@@ -522,7 +522,7 @@
       "playcount": 5
     },
     {
-      "artist": "common.topic.webpage..common.webpage.resource",
+      "artist": "RELATION",
       "id": "common.topic.webpage..common.webpage.resource",
       "match": 1.0,
       "name": "webpage-resource",
@@ -536,7 +536,7 @@
       "playcount": 5
     },
     {
-      "artist": "organization.organization.phone_number..common.phone_number.note",
+      "artist": "RELATION",
       "id": "organization.organization.phone_number..common.phone_number.note",
       "match": 1.0,
       "name": "phone-number-note",
@@ -550,7 +550,7 @@
       "playcount": 5
     },
     {
-      "artist": "organization.organization.phone_number..common.phone_number.category",
+      "artist": "RELATION",
       "id": "organization.organization.phone_number..common.phone_number.category",
       "match": 1.0,
       "name": "phone-number-category",
@@ -564,7 +564,7 @@
       "playcount": 5
     },
     {
-      "artist": "organization.organization.leadership..organization.leadership.person",
+      "artist": "RELATION",
       "id": "organization.organization.leadership..organization.leadership.person",
       "match": 1.0,
       "name": "leadership-person",
@@ -578,7 +578,7 @@
       "playcount": 5
     },
     {
-      "artist": "organization.organization.headquarters..location.mailing_address.street_address_2",
+      "artist": "RELATION",
       "id": "organization.organization.headquarters..location.mailing_address.street_address_2",
       "match": 1.0,
       "name": "mailing-address-street-address-",
@@ -592,7 +592,7 @@
       "playcount": 5
     },
     {
-      "artist": "common.topic.webpage..common.webpage.uri",
+      "artist": "RELATION",
       "id": "common.topic.webpage..common.webpage.uri",
       "match": 1.0,
       "name": "webpage-uri",
@@ -606,7 +606,7 @@
       "playcount": 5
     },
     {
-      "artist": "business.employer.employees..business.employment_tenure.person",
+      "artist": "RELATION",
       "id": "business.employer.employees..business.employment_tenure.person",
       "match": 1.0,
       "name": "employment-tenure-person",
@@ -627,7 +627,7 @@
       "playcount": 5
     },
     {
-      "artist": "organization.organization.leadership..organization.leadership.role",
+      "artist": "RELATION",
       "id": "organization.organization.leadership..organization.leadership.role",
       "match": 1.0,
       "name": "leadership-role",
@@ -641,7 +641,7 @@
       "playcount": 5
     },
     {
-      "artist": "organization.organization.board_members..organization.organization_board_membership.member",
+      "artist": "RELATION",
       "id": "organization.organization.board_members..organization.organization_board_membership.member",
       "match": 1.0,
       "name": "organization-board-membership-member",
@@ -655,7 +655,7 @@
       "playcount": 5
     },
     {
-      "artist": "organization.organization.headquarters..location.mailing_address.street_address",
+      "artist": "RELATION",
       "id": "organization.organization.headquarters..location.mailing_address.street_address",
       "match": 1.0,
       "name": "mailing-address-street-address",
@@ -669,7 +669,7 @@
       "playcount": 5
     },
     {
-      "artist": "type.object.name",
+      "artist": "RELATION",
       "id": "type.object.name",
       "match": 1.0,
       "name": "object-name",
@@ -683,7 +683,7 @@
       "playcount": 5
     },
     {
-      "artist": "business.employer.employees..business.employment_tenure.from",
+      "artist": "RELATION",
       "id": "business.employer.employees..business.employment_tenure.from",
       "match": 1.0,
       "name": "employment-tenure-from",
@@ -704,7 +704,7 @@
       "playcount": 5
     },
     {
-      "artist": "organization.organization.phone_number..common.phone_number.number",
+      "artist": "RELATION",
       "id": "organization.organization.phone_number..common.phone_number.number",
       "match": 1.0,
       "name": "phone-number-number",
