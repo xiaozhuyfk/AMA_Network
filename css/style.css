@@ -8,7 +8,7 @@ a, a:visited {
 }
 
 #container {
-  width: 940px;
+  width: 1440px;
   padding: 5px 0 10px 0;
   margin: auto;
 }
@@ -18,7 +18,7 @@ a, a:visited {
 }
 
 #controls {
-  width: 100%;
+  width: 200%;
   float: left;
   margin-bottom: 10px;
 }

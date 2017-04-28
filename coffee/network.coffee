@@ -166,8 +166,8 @@ graph = null
 top5 = null
 
 Network = () ->
-    width = 960
-    height = 800
+    width = 1440
+    height = 960
 
     # allData will store the unfiltered data
     allData = []
@@ -217,7 +217,7 @@ Network = () ->
             .attr("width", width)
             .attr("height", height)
             .attr("transform", "translate(" + margin.left + "," + margin.right + ")")
-            .call(zoom)
+            #.call(zoom)
 
         linksG = vis.append("svg").append("g").attr("id", "links")
         nodesG = vis.append("svg").append("g").attr("id", "nodes")

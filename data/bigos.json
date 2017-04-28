@@ -3,1838 +3,1838 @@
     "links": [
       {
         "source": "m.0cwx_",
-        "target": "symbols.namesake.named_after"
+        "target": "m.0cwx_-symbols.namesake.named_after-"
       },
       {
-        "source": "symbols.namesake.named_after",
+        "source": "m.0cwx_-symbols.namesake.named_after-",
         "target": "m.0vdk-Andrew Carnegie-symbols.namesake.named_after"
       },
       {
-        "source": "symbols.namesake.named_after",
+        "source": "m.0cwx_-symbols.namesake.named_after-",
         "target": "m.07kwp0-Richard B. Mellon-symbols.namesake.named_after"
       },
       {
-        "source": "symbols.namesake.named_after",
+        "source": "m.0cwx_-symbols.namesake.named_after-",
         "target": "m.015dvx-Andrew W. Mellon-symbols.namesake.named_after"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.university.local_tuition..measurement_unit.dated_money_value.amount"
+        "target": "m.0cwx_-education.university.local_tuition..measurement_unit.dated_money_value.amount-"
       },
       {
-        "source": "education.university.local_tuition..measurement_unit.dated_money_value.amount",
+        "source": "m.0cwx_-education.university.local_tuition..measurement_unit.dated_money_value.amount-",
         "target": "ATTRIBUTE-41500-education.university.local_tuition..measurement_unit.dated_money_value.amount"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.university.fraternities_and_sororities"
+        "target": "m.0cwx_-education.university.fraternities_and_sororities-"
       },
       {
-        "source": "education.university.fraternities_and_sororities",
+        "source": "m.0cwx_-education.university.fraternities_and_sororities-",
         "target": "m.03sqbn-Kappa Delta Rho-education.university.fraternities_and_sororities"
       },
       {
-        "source": "education.university.fraternities_and_sororities",
+        "source": "m.0cwx_-education.university.fraternities_and_sororities-",
         "target": "m.04m8fy-Delta Delta Delta-education.university.fraternities_and_sororities"
       },
       {
-        "source": "education.university.fraternities_and_sororities",
+        "source": "m.0cwx_-education.university.fraternities_and_sororities-",
         "target": "m.056mqn-Delta Gamma-education.university.fraternities_and_sororities"
       },
       {
-        "source": "education.university.fraternities_and_sororities",
+        "source": "m.0cwx_-education.university.fraternities_and_sororities-",
         "target": "m.05x23q-Kappa Kappa Gamma-education.university.fraternities_and_sororities"
       },
       {
-        "source": "education.university.fraternities_and_sororities",
+        "source": "m.0cwx_-education.university.fraternities_and_sororities-",
         "target": "m.0bhp5g-Alpha Chi Omega-education.university.fraternities_and_sororities"
       },
       {
-        "source": "education.university.fraternities_and_sororities",
+        "source": "m.0cwx_-education.university.fraternities_and_sororities-",
         "target": "m.09yw92-Kappa Phi Lambda-education.university.fraternities_and_sororities"
       },
       {
-        "source": "education.university.fraternities_and_sororities",
+        "source": "m.0cwx_-education.university.fraternities_and_sororities-",
         "target": "m.01sfg5-Sigma Phi Epsilon-education.university.fraternities_and_sororities"
       },
       {
-        "source": "education.university.fraternities_and_sororities",
+        "source": "m.0cwx_-education.university.fraternities_and_sororities-",
         "target": "m.02hpnr-Sigma Nu-education.university.fraternities_and_sororities"
       },
       {
-        "source": "education.university.fraternities_and_sororities",
+        "source": "m.0cwx_-education.university.fraternities_and_sororities-",
         "target": "m.026frb-Kappa Sigma-education.university.fraternities_and_sororities"
       },
       {
-        "source": "education.university.fraternities_and_sororities",
+        "source": "m.0cwx_-education.university.fraternities_and_sororities-",
         "target": "m.02gycv-Kappa Alpha Theta-education.university.fraternities_and_sororities"
       },
       {
-        "source": "education.university.fraternities_and_sororities",
+        "source": "m.0cwx_-education.university.fraternities_and_sororities-",
         "target": "m.035tlh-Alpha Sigma Phi-education.university.fraternities_and_sororities"
       },
       {
-        "source": "education.university.fraternities_and_sororities",
+        "source": "m.0cwx_-education.university.fraternities_and_sororities-",
         "target": "m.02tl6q-Pi Kappa Alpha-education.university.fraternities_and_sororities"
       },
       {
-        "source": "education.university.fraternities_and_sororities",
+        "source": "m.0cwx_-education.university.fraternities_and_sororities-",
         "target": "m.035mtr-Lambda Phi Epsilon-education.university.fraternities_and_sororities"
       },
       {
-        "source": "education.university.fraternities_and_sororities",
+        "source": "m.0cwx_-education.university.fraternities_and_sororities-",
         "target": "m.045y0x-Theta Xi-education.university.fraternities_and_sororities"
       },
       {
-        "source": "education.university.fraternities_and_sororities",
+        "source": "m.0cwx_-education.university.fraternities_and_sororities-",
         "target": "m.07mcxh-alpha Kappa Delta Phi-education.university.fraternities_and_sororities"
       },
       {
-        "source": "education.university.fraternities_and_sororities",
+        "source": "m.0cwx_-education.university.fraternities_and_sororities-",
         "target": "m.030p1p-Alpha Epsilon Pi-education.university.fraternities_and_sororities"
       },
       {
-        "source": "education.university.fraternities_and_sororities",
+        "source": "m.0cwx_-education.university.fraternities_and_sororities-",
         "target": "m.07zbd1-Pi Delta Psi-education.university.fraternities_and_sororities"
       },
       {
         "source": "m.0cwx_",
-        "target": "organization.organization.leadership..organization.leadership.from"
+        "target": "m.0cwx_-organization.organization.leadership..organization.leadership.from-"
       },
       {
-        "source": "organization.organization.leadership..organization.leadership.from",
+        "source": "m.0cwx_-organization.organization.leadership..organization.leadership.from-",
         "target": "ATTRIBUTE-1997-organization.organization.leadership..organization.leadership.from"
       },
       {
         "source": "m.0cwx_",
-        "target": "organization.non_profit_organization.registered_with..organization.non_profit_registration.date_registered"
+        "target": "m.0cwx_-organization.non_profit_organization.registered_with..organization.non_profit_registration.date_registered-"
       },
       {
-        "source": "organization.non_profit_organization.registered_with..organization.non_profit_registration.date_registered",
+        "source": "m.0cwx_-organization.non_profit_organization.registered_with..organization.non_profit_registration.date_registered-",
         "target": "ATTRIBUTE-1942-11-organization.non_profit_organization.registered_with..organization.non_profit_registration.date_registered"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.educational_institution.campuses"
+        "target": "m.0cwx_-education.educational_institution.campuses-"
       },
       {
-        "source": "education.educational_institution.campuses",
+        "source": "m.0cwx_-education.educational_institution.campuses-",
         "target": "m.0cwx_-Carnegie Mellon University-education.educational_institution.campuses"
       },
       {
         "source": "m.0cwx_",
-        "target": "medicine.cancer_center_constituent.cancer_center"
+        "target": "m.0cwx_-medicine.cancer_center_constituent.cancer_center-"
       },
       {
-        "source": "medicine.cancer_center_constituent.cancer_center",
+        "source": "m.0cwx_-medicine.cancer_center_constituent.cancer_center-",
         "target": "m.04_5_lj-University of Pittsburgh Cancer Institute-medicine.cancer_center_constituent.cancer_center"
       },
       {
         "source": "m.0cwx_",
-        "target": "organization.organization.headquarters..location.mailing_address.citytown"
+        "target": "m.0cwx_-organization.organization.headquarters..location.mailing_address.citytown-"
       },
       {
-        "source": "organization.organization.headquarters..location.mailing_address.citytown",
+        "source": "m.0cwx_-organization.organization.headquarters..location.mailing_address.citytown-",
         "target": "m.068p2-Pittsburgh-organization.organization.headquarters..location.mailing_address.citytown"
       },
       {
         "source": "m.0cwx_",
-        "target": "location.location.containedby"
+        "target": "m.0cwx_-location.location.containedby-"
       },
       {
-        "source": "location.location.containedby",
+        "source": "m.0cwx_-location.location.containedby-",
         "target": "m.05tbn-Pennsylvania-location.location.containedby"
       },
       {
-        "source": "location.location.containedby",
+        "source": "m.0cwx_-location.location.containedby-",
         "target": "m.068p2-Pittsburgh-location.location.containedby"
       },
       {
-        "source": "location.location.containedby",
+        "source": "m.0cwx_-location.location.containedby-",
         "target": "m.09c7w0-United States of America-location.location.containedby"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.educational_institution.total_enrollment..measurement_unit.dated_integer.number"
+        "target": "m.0cwx_-education.educational_institution.total_enrollment..measurement_unit.dated_integer.number-"
       },
       {
-        "source": "education.educational_institution.total_enrollment..measurement_unit.dated_integer.number",
+        "source": "m.0cwx_-education.educational_institution.total_enrollment..measurement_unit.dated_integer.number-",
         "target": "ATTRIBUTE-6259-education.educational_institution.total_enrollment..measurement_unit.dated_integer.number"
       },
       {
-        "source": "education.educational_institution.total_enrollment..measurement_unit.dated_integer.number",
+        "source": "m.0cwx_-education.educational_institution.total_enrollment..measurement_unit.dated_integer.number-",
         "target": "ATTRIBUTE-11955-education.educational_institution.total_enrollment..measurement_unit.dated_integer.number"
       },
       {
         "source": "m.0cwx_",
-        "target": "organization.organization_member.member_of..organization.organization_membership.organization"
+        "target": "m.0cwx_-organization.organization_member.member_of..organization.organization_membership.organization-"
       },
       {
-        "source": "organization.organization_member.member_of..organization.organization_membership.organization",
+        "source": "m.0cwx_-organization.organization_member.member_of..organization.organization_membership.organization-",
         "target": "m.034h1h-Association of American Universities-organization.organization_member.member_of..organization.organization_membership.organization"
       },
       {
         "source": "m.0cwx_",
-        "target": "base.ontologies.ontology_instance.equivalent_instances..base.ontologies.ontology_instance_mapping.uri"
+        "target": "m.0cwx_-base.ontologies.ontology_instance.equivalent_instances..base.ontologies.ontology_instance_mapping.uri-"
       },
       {
-        "source": "base.ontologies.ontology_instance.equivalent_instances..base.ontologies.ontology_instance_mapping.uri",
+        "source": "m.0cwx_-base.ontologies.ontology_instance.equivalent_instances..base.ontologies.ontology_instance_mapping.uri-",
         "target": "ATTRIBUTE-http://sw.opencyc.org/concept/Mx4rvVjCA5wpEbGdrcN5Y29ycA-base.ontologies.ontology_instance.equivalent_instances..base.ontologies.ontology_instance_mapping.uri"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.university.local_tuition..measurement_unit.dated_money_value.valid_date"
+        "target": "m.0cwx_-education.university.local_tuition..measurement_unit.dated_money_value.valid_date-"
       },
       {
-        "source": "education.university.local_tuition..measurement_unit.dated_money_value.valid_date",
+        "source": "m.0cwx_-education.university.local_tuition..measurement_unit.dated_money_value.valid_date-",
         "target": "ATTRIBUTE-2010-education.university.local_tuition..measurement_unit.dated_money_value.valid_date"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.educational_institution.phone_number..common.phone_number.number"
+        "target": "m.0cwx_-education.educational_institution.phone_number..common.phone_number.number-"
       },
       {
-        "source": "education.educational_institution.phone_number..common.phone_number.number",
+        "source": "m.0cwx_-education.educational_institution.phone_number..common.phone_number.number-",
         "target": "ATTRIBUTE-412-268-2000-education.educational_institution.phone_number..common.phone_number.number"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.educational_institution.students_graduates..education.education.degree"
+        "target": "m.0cwx_-education.educational_institution.students_graduates..education.education.degree-"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.degree",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.degree-",
         "target": "m.016t_3-Master's Degree-education.educational_institution.students_graduates..education.education.degree"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.degree",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.degree-",
         "target": "m.019v9k-Bachelor's degree-education.educational_institution.students_graduates..education.education.degree"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.degree",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.degree-",
         "target": "m.028dcg-Bachelor of Fine Arts-education.educational_institution.students_graduates..education.education.degree"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.degree",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.degree-",
         "target": "m.02_xgp2-Doctorate-education.educational_institution.students_graduates..education.education.degree"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.degree",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.degree-",
         "target": "m.02h4rq6-Bachelor of Science-education.educational_institution.students_graduates..education.education.degree"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.degree",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.degree-",
         "target": "m.03bwzr4-Master of Science-education.educational_institution.students_graduates..education.education.degree"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.degree",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.degree-",
         "target": "m.014mlp-Bachelor of Arts-education.educational_institution.students_graduates..education.education.degree"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.degree",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.degree-",
         "target": "m.022h5x-Bachelor of Business Administration-education.educational_institution.students_graduates..education.education.degree"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.degree",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.degree-",
         "target": "m.03mkk4-MFA-education.educational_institution.students_graduates..education.education.degree"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.degree",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.degree-",
         "target": "m.04zx3q1-PhD-education.educational_institution.students_graduates..education.education.degree"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.degree",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.degree-",
         "target": "m.07s6fsf-MBA-education.educational_institution.students_graduates..education.education.degree"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.degree",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.degree-",
         "target": "m.09mz1w-Bachelor of Architecture-education.educational_institution.students_graduates..education.education.degree"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.degree",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.degree-",
         "target": "m.071tyz-Master of Philosophy-education.educational_institution.students_graduates..education.education.degree"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.degree",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.degree-",
         "target": "m.0bjrnt-Master of Arts-education.educational_institution.students_graduates..education.education.degree"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.degree",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.degree-",
         "target": "m.02cqwf-Honorary degree-education.educational_institution.students_graduates..education.education.degree"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.degree",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.degree-",
         "target": "m.01_scg-Master of Public Administration-education.educational_institution.students_graduates..education.education.degree"
       },
       {
         "source": "m.0cwx_",
-        "target": "business.business_operation.assets..measurement_unit.dated_money_value.valid_date"
+        "target": "m.0cwx_-business.business_operation.assets..measurement_unit.dated_money_value.valid_date-"
       },
       {
-        "source": "business.business_operation.assets..measurement_unit.dated_money_value.valid_date",
+        "source": "m.0cwx_-business.business_operation.assets..measurement_unit.dated_money_value.valid_date-",
         "target": "ATTRIBUTE-2011-business.business_operation.assets..measurement_unit.dated_money_value.valid_date"
       },
       {
         "source": "m.0cwx_",
-        "target": "business.business_operation.revenue..measurement_unit.dated_money_value.valid_date"
+        "target": "m.0cwx_-business.business_operation.revenue..measurement_unit.dated_money_value.valid_date-"
       },
       {
-        "source": "business.business_operation.revenue..measurement_unit.dated_money_value.valid_date",
+        "source": "m.0cwx_-business.business_operation.revenue..measurement_unit.dated_money_value.valid_date-",
         "target": "ATTRIBUTE-2011-business.business_operation.revenue..measurement_unit.dated_money_value.valid_date"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.educational_institution.students_graduates..education.education.end_date"
+        "target": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.end_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-",
         "target": "ATTRIBUTE-1952-education.educational_institution.students_graduates..education.education.end_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.end_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-",
         "target": "ATTRIBUTE-1957-education.educational_institution.students_graduates..education.education.end_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.end_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-",
         "target": "ATTRIBUTE-1962-education.educational_institution.students_graduates..education.education.end_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.end_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-",
         "target": "ATTRIBUTE-1963-education.educational_institution.students_graduates..education.education.end_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.end_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-",
         "target": "ATTRIBUTE-1965-education.educational_institution.students_graduates..education.education.end_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.end_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-",
         "target": "ATTRIBUTE-1966-education.educational_institution.students_graduates..education.education.end_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.end_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-",
         "target": "ATTRIBUTE-1968-education.educational_institution.students_graduates..education.education.end_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.end_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-",
         "target": "ATTRIBUTE-1970-education.educational_institution.students_graduates..education.education.end_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.end_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-",
         "target": "ATTRIBUTE-1971-education.educational_institution.students_graduates..education.education.end_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.end_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-",
         "target": "ATTRIBUTE-1972-education.educational_institution.students_graduates..education.education.end_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.end_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-",
         "target": "ATTRIBUTE-1974-education.educational_institution.students_graduates..education.education.end_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.end_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-",
         "target": "ATTRIBUTE-1976-education.educational_institution.students_graduates..education.education.end_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.end_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-",
         "target": "ATTRIBUTE-1977-education.educational_institution.students_graduates..education.education.end_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.end_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-",
         "target": "ATTRIBUTE-1978-education.educational_institution.students_graduates..education.education.end_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.end_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-",
         "target": "ATTRIBUTE-1979-education.educational_institution.students_graduates..education.education.end_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.end_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-",
         "target": "ATTRIBUTE-1980-education.educational_institution.students_graduates..education.education.end_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.end_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-",
         "target": "ATTRIBUTE-1982-education.educational_institution.students_graduates..education.education.end_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.end_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-",
         "target": "ATTRIBUTE-1983-education.educational_institution.students_graduates..education.education.end_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.end_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-",
         "target": "ATTRIBUTE-1985-education.educational_institution.students_graduates..education.education.end_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.end_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-",
         "target": "ATTRIBUTE-1986-education.educational_institution.students_graduates..education.education.end_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.end_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-",
         "target": "ATTRIBUTE-1987-education.educational_institution.students_graduates..education.education.end_date"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.educational_institution.students_graduates..education.education.major_field_of_study"
+        "target": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.major_field_of_study",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-",
         "target": "m.01400v-Public policy-education.educational_institution.students_graduates..education.education.major_field_of_study"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.major_field_of_study",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-",
         "target": "m.01jj2-Biomedical engineering-education.educational_institution.students_graduates..education.education.major_field_of_study"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.major_field_of_study",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-",
         "target": "m.01mkq-Computer Science-education.educational_institution.students_graduates..education.education.major_field_of_study"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.major_field_of_study",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-",
         "target": "m.02822-Drama-education.educational_institution.students_graduates..education.education.major_field_of_study"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.major_field_of_study",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-",
         "target": "m.02_xgqn-Industrial Administration-education.educational_institution.students_graduates..education.education.major_field_of_study"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.major_field_of_study",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-",
         "target": "m.02j62-Economics-education.educational_institution.students_graduates..education.education.major_field_of_study"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.major_field_of_study",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-",
         "target": "m.02kl7sd-Theatre Arts-education.educational_institution.students_graduates..education.education.major_field_of_study"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.major_field_of_study",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-",
         "target": "m.02lp1-Electrical engineering-education.educational_institution.students_graduates..education.education.major_field_of_study"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.major_field_of_study",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-",
         "target": "m.037mh8-Philosophy-education.educational_institution.students_graduates..education.education.major_field_of_study"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.major_field_of_study",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-",
         "target": "m.03ytc-Information technology-education.educational_institution.students_graduates..education.education.major_field_of_study"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.major_field_of_study",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-",
         "target": "m.04g7x-Linguistics-education.educational_institution.students_graduates..education.education.major_field_of_study"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.major_field_of_study",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-",
         "target": "m.04rjg-Mathematics-education.educational_institution.students_graduates..education.education.major_field_of_study"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.major_field_of_study",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-",
         "target": "m.04x_3-Mechanical Engineering-education.educational_institution.students_graduates..education.education.major_field_of_study"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.major_field_of_study",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-",
         "target": "m.05qfh-Psychology-education.educational_institution.students_graduates..education.education.major_field_of_study"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.major_field_of_study",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-",
         "target": "m.06mnr-Statistics-education.educational_institution.students_graduates..education.education.major_field_of_study"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.major_field_of_study",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-",
         "target": "m.06q83-Software Engineering-education.educational_institution.students_graduates..education.education.major_field_of_study"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.major_field_of_study",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-",
         "target": "m.0db86-Computer Engineering-education.educational_institution.students_graduates..education.education.major_field_of_study"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.major_field_of_study",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-",
         "target": "m.0fdys-English Literature-education.educational_institution.students_graduates..education.education.major_field_of_study"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.major_field_of_study",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-",
         "target": "m.0g26h-Business Administration-education.educational_institution.students_graduates..education.education.major_field_of_study"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.major_field_of_study",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-",
         "target": "m.0fq9dt3-Public Policy & Management-education.educational_institution.students_graduates..education.education.major_field_of_study"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.major_field_of_study",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-",
         "target": "m.02nr6t8-Industrial management-education.educational_institution.students_graduates..education.education.major_field_of_study"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.university.local_tuition..measurement_unit.dated_money_value.currency"
+        "target": "m.0cwx_-education.university.local_tuition..measurement_unit.dated_money_value.currency-"
       },
       {
-        "source": "education.university.local_tuition..measurement_unit.dated_money_value.currency",
+        "source": "m.0cwx_-education.university.local_tuition..measurement_unit.dated_money_value.currency-",
         "target": "m.09nqf-United States dollar-education.university.local_tuition..measurement_unit.dated_money_value.currency"
       },
       {
         "source": "m.0cwx_",
-        "target": "base.technologyofdoing.proposal_agent.practices"
+        "target": "m.0cwx_-base.technologyofdoing.proposal_agent.practices-"
       },
       {
-        "source": "base.technologyofdoing.proposal_agent.practices",
+        "source": "m.0cwx_-base.technologyofdoing.proposal_agent.practices-",
         "target": "m.023m8-Capability Maturity Model-base.technologyofdoing.proposal_agent.practices"
       },
       {
-        "source": "base.technologyofdoing.proposal_agent.practices",
+        "source": "m.0cwx_-base.technologyofdoing.proposal_agent.practices-",
         "target": "m.04qb87-Capability Maturity Model Integration-base.technologyofdoing.proposal_agent.practices"
       },
       {
         "source": "m.0cwx_",
-        "target": "location.location.adjoin_s..location.adjoining_relationship.adjoins"
+        "target": "m.0cwx_-location.location.adjoin_s..location.adjoining_relationship.adjoins-"
       },
       {
-        "source": "location.location.adjoin_s..location.adjoining_relationship.adjoins",
+        "source": "m.0cwx_-location.location.adjoin_s..location.adjoining_relationship.adjoins-",
         "target": "m.01jssp-University of Pittsburgh-location.location.adjoin_s..location.adjoining_relationship.adjoins"
       },
       {
-        "source": "location.location.adjoin_s..location.adjoining_relationship.adjoins",
+        "source": "m.0cwx_-location.location.adjoin_s..location.adjoining_relationship.adjoins-",
         "target": "m.077lw0-Phipps Conservatory & Botanical Gardens-location.location.adjoin_s..location.adjoining_relationship.adjoins"
       },
       {
-        "source": "location.location.adjoin_s..location.adjoining_relationship.adjoins",
+        "source": "m.0cwx_-location.location.adjoin_s..location.adjoining_relationship.adjoins-",
         "target": "m.035hnz-Schenley Park-location.location.adjoin_s..location.adjoining_relationship.adjoins"
       },
       {
-        "source": "location.location.adjoin_s..location.adjoining_relationship.adjoins",
+        "source": "m.0cwx_-location.location.adjoin_s..location.adjoining_relationship.adjoins-",
         "target": "m.040_6gw-Carnegie Library of Pittsburgh - Main-location.location.adjoin_s..location.adjoining_relationship.adjoins"
       },
       {
-        "source": "location.location.adjoin_s..location.adjoining_relationship.adjoins",
+        "source": "m.0cwx_-location.location.adjoin_s..location.adjoining_relationship.adjoins-",
         "target": "m.07b6c8-Bob O'Connor Golf Course at Schenley Park-location.location.adjoin_s..location.adjoining_relationship.adjoins"
       },
       {
-        "source": "location.location.adjoin_s..location.adjoining_relationship.adjoins",
+        "source": "m.0cwx_-location.location.adjoin_s..location.adjoining_relationship.adjoins-",
         "target": "m.040_6gj-Carnegie Museum of Natural History-location.location.adjoin_s..location.adjoining_relationship.adjoins"
       },
       {
         "source": "m.0cwx_",
-        "target": "organization.endowed_organization.endowment..measurement_unit.dated_money_value.amount"
+        "target": "m.0cwx_-organization.endowed_organization.endowment..measurement_unit.dated_money_value.amount-"
       },
       {
-        "source": "organization.endowed_organization.endowment..measurement_unit.dated_money_value.amount",
+        "source": "m.0cwx_-organization.endowed_organization.endowment..measurement_unit.dated_money_value.amount-",
         "target": "ATTRIBUTE-815099000-organization.endowed_organization.endowment..measurement_unit.dated_money_value.amount"
       },
       {
         "source": "m.0cwx_",
-        "target": "location.location.geolocation..location.geocode.longitude"
+        "target": "m.0cwx_-location.location.geolocation..location.geocode.longitude-"
       },
       {
-        "source": "location.location.geolocation..location.geocode.longitude",
+        "source": "m.0cwx_-location.location.geolocation..location.geocode.longitude-",
         "target": "ATTRIBUTE--79.9436-location.location.geolocation..location.geocode.longitude"
       },
       {
         "source": "m.0cwx_",
-        "target": "organization.organization.headquarters..location.mailing_address.postal_code"
+        "target": "m.0cwx_-organization.organization.headquarters..location.mailing_address.postal_code-"
       },
       {
-        "source": "organization.organization.headquarters..location.mailing_address.postal_code",
+        "source": "m.0cwx_-organization.organization.headquarters..location.mailing_address.postal_code-",
         "target": "m.020srsv-15213-organization.organization.headquarters..location.mailing_address.postal_code"
       },
       {
         "source": "m.0cwx_",
-        "target": "organization.organization.leadership..organization.leadership.title"
+        "target": "m.0cwx_-organization.organization.leadership..organization.leadership.title-"
       },
       {
-        "source": "organization.organization.leadership..organization.leadership.title",
+        "source": "m.0cwx_-organization.organization.leadership..organization.leadership.title-",
         "target": "ATTRIBUTE-President-organization.organization.leadership..organization.leadership.title"
       },
       {
         "source": "m.0cwx_",
-        "target": "common.topic.official_website"
+        "target": "m.0cwx_-common.topic.official_website-"
       },
       {
-        "source": "common.topic.official_website",
+        "source": "m.0cwx_-common.topic.official_website-",
         "target": "ATTRIBUTE-http://www.cmu.edu/-common.topic.official_website"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.university.number_of_undergraduates..measurement_unit.dated_integer.year"
+        "target": "m.0cwx_-education.university.number_of_undergraduates..measurement_unit.dated_integer.year-"
       },
       {
-        "source": "education.university.number_of_undergraduates..measurement_unit.dated_integer.year",
+        "source": "m.0cwx_-education.university.number_of_undergraduates..measurement_unit.dated_integer.year-",
         "target": "ATTRIBUTE-2007-education.university.number_of_undergraduates..measurement_unit.dated_integer.year"
       },
       {
-        "source": "education.university.number_of_undergraduates..measurement_unit.dated_integer.year",
+        "source": "m.0cwx_-education.university.number_of_undergraduates..measurement_unit.dated_integer.year-",
         "target": "ATTRIBUTE-2009-education.university.number_of_undergraduates..measurement_unit.dated_integer.year"
       },
       {
-        "source": "education.university.number_of_undergraduates..measurement_unit.dated_integer.year",
+        "source": "m.0cwx_-education.university.number_of_undergraduates..measurement_unit.dated_integer.year-",
         "target": "ATTRIBUTE-2010-education.university.number_of_undergraduates..measurement_unit.dated_integer.year"
       },
       {
         "source": "m.0cwx_",
-        "target": "internet.website_owner.websites_owned_new..internet.website_ownership.website"
+        "target": "m.0cwx_-internet.website_owner.websites_owned_new..internet.website_ownership.website-"
       },
       {
-        "source": "internet.website_owner.websites_owned_new..internet.website_ownership.website",
+        "source": "m.0cwx_-internet.website_owner.websites_owned_new..internet.website_ownership.website-",
         "target": "m.050_lw3-gwap.com-internet.website_owner.websites_owned_new..internet.website_ownership.website"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.educational_institution.students_graduates..education.education.student"
+        "target": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.student",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-",
         "target": "m.0kt8g5-Lori Cardille-education.educational_institution.students_graduates..education.education.student"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.student",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-",
         "target": "m.02872x5-Michael Loren Mauldin-education.educational_institution.students_graduates..education.education.student"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.student",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-",
         "target": "m.09rssll-James Knepper-education.educational_institution.students_graduates..education.education.student"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.student",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-",
         "target": "m.0272dc4-Geoffrey Sauer-education.educational_institution.students_graduates..education.education.student"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.student",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-",
         "target": "m.02863zk-I-Chen Wu-education.educational_institution.students_graduates..education.education.student"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.student",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-",
         "target": "m.01q5yp-Allen Newell-education.educational_institution.students_graduates..education.education.student"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.student",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-",
         "target": "m.01sqwf-Edward Feigenbaum-education.educational_institution.students_graduates..education.education.student"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.student",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-",
         "target": "m.02cx72-Stephen Schwartz-education.educational_institution.students_graduates..education.education.student"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.student",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-",
         "target": "m.02h70n2-James Swartz-education.educational_institution.students_graduates..education.education.student"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.student",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-",
         "target": "m.0306ds-Lisa Gay Hamilton-education.educational_institution.students_graduates..education.education.student"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.student",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-",
         "target": "m.03qmj9-Loudon Wainwright III-education.educational_institution.students_graduates..education.education.student"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.student",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-",
         "target": "m.04dnsws-J. Miles Reidy-education.educational_institution.students_graduates..education.education.student"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.student",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-",
         "target": "m.06ch92-Johnny Costa-education.educational_institution.students_graduates..education.education.student"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.student",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-",
         "target": "m.06lp_g1-Santiago Ceria-education.educational_institution.students_graduates..education.education.student"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.student",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-",
         "target": "m.0b6czt_-Michael Benjamin Nigrin-education.educational_institution.students_graduates..education.education.student"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.student",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-",
         "target": "m.0f3pdy-Caroline McWilliams-education.educational_institution.students_graduates..education.education.student"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.student",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-",
         "target": "m.0frdv5-Frederick Mosteller-education.educational_institution.students_graduates..education.education.student"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.student",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-",
         "target": "m.0g510b5-Jure Leskovec-education.educational_institution.students_graduates..education.education.student"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.student",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-",
         "target": "m.0kc6-Andy Warhol-education.educational_institution.students_graduates..education.education.student"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.student",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-",
         "target": "m.01ft2l-Ted Danson-education.educational_institution.students_graduates..education.education.student"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.student",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-",
         "target": "m.024bbl-James Cromwell-education.educational_institution.students_graduates..education.education.student"
       },
       {
         "source": "m.0cwx_",
-        "target": "organization.organization.headquarters..location.mailing_address.state_province_region"
+        "target": "m.0cwx_-organization.organization.headquarters..location.mailing_address.state_province_region-"
       },
       {
-        "source": "organization.organization.headquarters..location.mailing_address.state_province_region",
+        "source": "m.0cwx_-organization.organization.headquarters..location.mailing_address.state_province_region-",
         "target": "m.05tbn-Pennsylvania-organization.organization.headquarters..location.mailing_address.state_province_region"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.university.number_of_undergraduates..measurement_unit.dated_integer.number"
+        "target": "m.0cwx_-education.university.number_of_undergraduates..measurement_unit.dated_integer.number-"
       },
       {
-        "source": "education.university.number_of_undergraduates..measurement_unit.dated_integer.number",
+        "source": "m.0cwx_-education.university.number_of_undergraduates..measurement_unit.dated_integer.number-",
         "target": "ATTRIBUTE-5758-education.university.number_of_undergraduates..measurement_unit.dated_integer.number"
       },
       {
-        "source": "education.university.number_of_undergraduates..measurement_unit.dated_integer.number",
+        "source": "m.0cwx_-education.university.number_of_undergraduates..measurement_unit.dated_integer.number-",
         "target": "ATTRIBUTE-5777-education.university.number_of_undergraduates..measurement_unit.dated_integer.number"
       },
       {
-        "source": "education.university.number_of_undergraduates..measurement_unit.dated_integer.number",
+        "source": "m.0cwx_-education.university.number_of_undergraduates..measurement_unit.dated_integer.number-",
         "target": "ATTRIBUTE-5830-education.university.number_of_undergraduates..measurement_unit.dated_integer.number"
       },
       {
-        "source": "education.university.number_of_undergraduates..measurement_unit.dated_integer.number",
+        "source": "m.0cwx_-education.university.number_of_undergraduates..measurement_unit.dated_integer.number-",
         "target": "ATTRIBUTE-6178-education.university.number_of_undergraduates..measurement_unit.dated_integer.number"
       },
       {
-        "source": "education.university.number_of_undergraduates..measurement_unit.dated_integer.number",
+        "source": "m.0cwx_-education.university.number_of_undergraduates..measurement_unit.dated_integer.number-",
         "target": "ATTRIBUTE-6203-education.university.number_of_undergraduates..measurement_unit.dated_integer.number"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.educational_institution.phone_number..common.phone_number.country_code"
+        "target": "m.0cwx_-education.educational_institution.phone_number..common.phone_number.country_code-"
       },
       {
-        "source": "education.educational_institution.phone_number..common.phone_number.country_code",
+        "source": "m.0cwx_-education.educational_institution.phone_number..common.phone_number.country_code-",
         "target": "ATTRIBUTE-1-education.educational_institution.phone_number..common.phone_number.country_code"
       },
       {
         "source": "m.0cwx_",
-        "target": "common.topic.webpage..common.webpage.uri"
+        "target": "m.0cwx_-common.topic.webpage..common.webpage.uri-"
       },
       {
-        "source": "common.topic.webpage..common.webpage.uri",
+        "source": "m.0cwx_-common.topic.webpage..common.webpage.uri-",
         "target": "ATTRIBUTE-http://topics.nytimes.com/top/reference/timestopics/organizations/c/carnegie_mellon_university/index.html-common.topic.webpage..common.webpage.uri"
       },
       {
-        "source": "common.topic.webpage..common.webpage.uri",
+        "source": "m.0cwx_-common.topic.webpage..common.webpage.uri-",
         "target": "ATTRIBUTE-http://www.cmu.edu/-common.topic.webpage..common.webpage.uri"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.educational_institution.motto"
+        "target": "m.0cwx_-education.educational_institution.motto-"
       },
       {
-        "source": "education.educational_institution.motto",
+        "source": "m.0cwx_-education.educational_institution.motto-",
         "target": "ATTRIBUTE-\"\"My heart is in the work\"\" - Andrew Carnegie-education.educational_institution.motto"
       },
       {
         "source": "m.0cwx_",
-        "target": "organization.organization.leadership..organization.leadership.role"
+        "target": "m.0cwx_-organization.organization.leadership..organization.leadership.role-"
       },
       {
-        "source": "organization.organization.leadership..organization.leadership.role",
+        "source": "m.0cwx_-organization.organization.leadership..organization.leadership.role-",
         "target": "m.060c4-President-organization.organization.leadership..organization.leadership.role"
       },
       {
         "source": "m.0cwx_",
-        "target": "organization.organization.board_members..organization.organization_board_membership.member"
+        "target": "m.0cwx_-organization.organization.board_members..organization.organization_board_membership.member-"
       },
       {
-        "source": "organization.organization.board_members..organization.organization_board_membership.member",
+        "source": "m.0cwx_-organization.organization.board_members..organization.organization_board_membership.member-",
         "target": "m.01gqf4-Eric Schmidt-organization.organization.board_members..organization.organization_board_membership.member"
       },
       {
-        "source": "organization.organization.board_members..organization.organization_board_membership.member",
+        "source": "m.0cwx_-organization.organization.board_members..organization.organization_board_membership.member-",
         "target": "m.03wttfw-Erroll B. Davis Jr.-organization.organization.board_members..organization.organization_board_membership.member"
       },
       {
-        "source": "organization.organization.board_members..organization.organization_board_membership.member",
+        "source": "m.0cwx_-organization.organization.board_members..organization.organization_board_membership.member-",
         "target": "m.02h67p2-Ray Lane-organization.organization.board_members..organization.organization_board_membership.member"
       },
       {
-        "source": "organization.organization.board_members..organization.organization_board_membership.member",
+        "source": "m.0cwx_-organization.organization.board_members..organization.organization_board_membership.member-",
         "target": "m.05cf3mx-James M. Walton-organization.organization.board_members..organization.organization_board_membership.member"
       },
       {
-        "source": "organization.organization.board_members..organization.organization_board_membership.member",
+        "source": "m.0cwx_-organization.organization.board_members..organization.organization_board_membership.member-",
         "target": "m.0flsmg-Dina Dublon-organization.organization.board_members..organization.organization_board_membership.member"
       },
       {
         "source": "m.0cwx_",
-        "target": "organization.non_profit_organization.registered_with..organization.non_profit_registration.registered_as"
+        "target": "m.0cwx_-organization.non_profit_organization.registered_with..organization.non_profit_registration.registered_as-"
       },
       {
-        "source": "organization.non_profit_organization.registered_with..organization.non_profit_registration.registered_as",
+        "source": "m.0cwx_-organization.non_profit_organization.registered_with..organization.non_profit_registration.registered_as-",
         "target": "m.04gbcnc-501(c)(3)-organization.non_profit_organization.registered_with..organization.non_profit_registration.registered_as"
       },
       {
         "source": "m.0cwx_",
-        "target": "organization.non_profit_organization.registered_with..organization.non_profit_registration.registering_agency"
+        "target": "m.0cwx_-organization.non_profit_organization.registered_with..organization.non_profit_registration.registering_agency-"
       },
       {
-        "source": "organization.non_profit_organization.registered_with..organization.non_profit_registration.registering_agency",
+        "source": "m.0cwx_-organization.non_profit_organization.registered_with..organization.non_profit_registration.registering_agency-",
         "target": "m.03z19-Internal Revenue Service-organization.non_profit_organization.registered_with..organization.non_profit_registration.registering_agency"
       },
       {
         "source": "m.0cwx_",
-        "target": "business.employer.employees..business.employment_tenure.from"
+        "target": "m.0cwx_-business.employer.employees..business.employment_tenure.from-"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.from",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.from-",
         "target": "ATTRIBUTE-1953-business.employer.employees..business.employment_tenure.from"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.from",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.from-",
         "target": "ATTRIBUTE-1966-business.employer.employees..business.employment_tenure.from"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.from",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.from-",
         "target": "ATTRIBUTE-1969-business.employer.employees..business.employment_tenure.from"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.from",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.from-",
         "target": "ATTRIBUTE-1970-business.employer.employees..business.employment_tenure.from"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.from",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.from-",
         "target": "ATTRIBUTE-1973-business.employer.employees..business.employment_tenure.from"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.from",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.from-",
         "target": "ATTRIBUTE-1974-business.employer.employees..business.employment_tenure.from"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.from",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.from-",
         "target": "ATTRIBUTE-1976-business.employer.employees..business.employment_tenure.from"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.from",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.from-",
         "target": "ATTRIBUTE-1979-business.employer.employees..business.employment_tenure.from"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.from",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.from-",
         "target": "ATTRIBUTE-1980-business.employer.employees..business.employment_tenure.from"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.from",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.from-",
         "target": "ATTRIBUTE-1981-business.employer.employees..business.employment_tenure.from"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.from",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.from-",
         "target": "ATTRIBUTE-1982-business.employer.employees..business.employment_tenure.from"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.from",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.from-",
         "target": "ATTRIBUTE-1983-business.employer.employees..business.employment_tenure.from"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.from",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.from-",
         "target": "ATTRIBUTE-1984-business.employer.employees..business.employment_tenure.from"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.from",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.from-",
         "target": "ATTRIBUTE-1987-business.employer.employees..business.employment_tenure.from"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.from",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.from-",
         "target": "ATTRIBUTE-1989-business.employer.employees..business.employment_tenure.from"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.from",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.from-",
         "target": "ATTRIBUTE-1990-07-business.employer.employees..business.employment_tenure.from"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.from",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.from-",
         "target": "ATTRIBUTE-1991-business.employer.employees..business.employment_tenure.from"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.from",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.from-",
         "target": "ATTRIBUTE-1994-business.employer.employees..business.employment_tenure.from"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.from",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.from-",
         "target": "ATTRIBUTE-1995-business.employer.employees..business.employment_tenure.from"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.from",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.from-",
         "target": "ATTRIBUTE-1996-business.employer.employees..business.employment_tenure.from"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.from",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.from-",
         "target": "ATTRIBUTE-1997-business.employer.employees..business.employment_tenure.from"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.educational_institution.mascot"
+        "target": "m.0cwx_-education.educational_institution.mascot-"
       },
       {
-        "source": "education.educational_institution.mascot",
+        "source": "m.0cwx_-education.educational_institution.mascot-",
         "target": "m.0h6_n81-Scotty the Scottie Dog-education.educational_institution.mascot"
       },
       {
         "source": "m.0cwx_",
-        "target": "business.employer.employees..business.employment_tenure.title"
+        "target": "m.0cwx_-business.employer.employees..business.employment_tenure.title-"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.title",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.title-",
         "target": "m.02ns9jl-Associate Professor-business.employer.employees..business.employment_tenure.title"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.title",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.title-",
         "target": "m.04_6fxf-Founding Director, Robotics Institute-business.employer.employees..business.employment_tenure.title"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.title",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.title-",
         "target": "m.02wk4cq-Research Programmer-business.employer.employees..business.employment_tenure.title"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.title",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.title-",
         "target": "m.0g8mrnb-Joint Appointment in Biological Sciences-business.employer.employees..business.employment_tenure.title"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.title",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.title-",
         "target": "m.02wjn0x-Assistant Professor-business.employer.employees..business.employment_tenure.title"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.title",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.title-",
         "target": "m.04zjl77-Professor of Economics-business.employer.employees..business.employment_tenure.title"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.title",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.title-",
         "target": "m.02zz8d0-Faculty member-business.employer.employees..business.employment_tenure.title"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.title",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.title-",
         "target": "m.04kftkr-Associate Professor of Computer Science-business.employer.employees..business.employment_tenure.title"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.title",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.title-",
         "target": "m.04zrkcs-Professor of Computer Science-business.employer.employees..business.employment_tenure.title"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.title",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.title-",
         "target": "m.0c1qc3l-Assistant Professor, Professor-business.employer.employees..business.employment_tenure.title"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.title",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.title-",
         "target": "m.02hfl77-Research Scientist-business.employer.employees..business.employment_tenure.title"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.title",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.title-",
         "target": "m.04kftc9-Associate Professor of Economics-business.employer.employees..business.employment_tenure.title"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.title",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.title-",
         "target": "m.07s0m_-Faculty-business.employer.employees..business.employment_tenure.title"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.title",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.title-",
         "target": "m.0bwxprr-Assistant, Associate Professor-business.employer.employees..business.employment_tenure.title"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.title",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.title-",
         "target": "m.0c1vnlb-Assistant Professor of Economics-business.employer.employees..business.employment_tenure.title"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.title",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.title-",
         "target": "m.02ns9qf-University Professor-business.employer.employees..business.employment_tenure.title"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.title",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.title-",
         "target": "m.04_6gv0-Bruce Nelson Professor of Computer Science-business.employer.employees..business.employment_tenure.title"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.title",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.title-",
         "target": "m.0g9bkhm-Visiting Economist-business.employer.employees..business.employment_tenure.title"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.title",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.title-",
         "target": "m.04zrm2s-Emeritus Hillman University Professor of Computer Science, Philosophy, and Mathematical Logic-business.employer.employees..business.employment_tenure.title"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.title",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.title-",
         "target": "m.0g9lvn2-Research Computer Scientist-business.employer.employees..business.employment_tenure.title"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.title",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.title-",
         "target": "m.0h6ntrp-Director, Engineering Design Research Center-business.employer.employees..business.employment_tenure.title"
       },
       {
         "source": "m.0cwx_",
-        "target": "business.employer.employees..business.employment_tenure.to"
+        "target": "m.0cwx_-business.employer.employees..business.employment_tenure.to-"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.to",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.to-",
         "target": "ATTRIBUTE-1964-business.employer.employees..business.employment_tenure.to"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.to",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.to-",
         "target": "ATTRIBUTE-1969-business.employer.employees..business.employment_tenure.to"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.to",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.to-",
         "target": "ATTRIBUTE-1970-business.employer.employees..business.employment_tenure.to"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.to",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.to-",
         "target": "ATTRIBUTE-1973-business.employer.employees..business.employment_tenure.to"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.to",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.to-",
         "target": "ATTRIBUTE-1975-business.employer.employees..business.employment_tenure.to"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.to",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.to-",
         "target": "ATTRIBUTE-1978-business.employer.employees..business.employment_tenure.to"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.to",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.to-",
         "target": "ATTRIBUTE-1981-business.employer.employees..business.employment_tenure.to"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.to",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.to-",
         "target": "ATTRIBUTE-1984-business.employer.employees..business.employment_tenure.to"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.to",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.to-",
         "target": "ATTRIBUTE-1985-business.employer.employees..business.employment_tenure.to"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.to",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.to-",
         "target": "ATTRIBUTE-1986-business.employer.employees..business.employment_tenure.to"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.to",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.to-",
         "target": "ATTRIBUTE-1987-business.employer.employees..business.employment_tenure.to"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.to",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.to-",
         "target": "ATTRIBUTE-1988-business.employer.employees..business.employment_tenure.to"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.to",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.to-",
         "target": "ATTRIBUTE-1989-business.employer.employees..business.employment_tenure.to"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.to",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.to-",
         "target": "ATTRIBUTE-1990-business.employer.employees..business.employment_tenure.to"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.to",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.to-",
         "target": "ATTRIBUTE-1991-business.employer.employees..business.employment_tenure.to"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.to",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.to-",
         "target": "ATTRIBUTE-1991-06-business.employer.employees..business.employment_tenure.to"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.to",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.to-",
         "target": "ATTRIBUTE-1994-business.employer.employees..business.employment_tenure.to"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.to",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.to-",
         "target": "ATTRIBUTE-1995-business.employer.employees..business.employment_tenure.to"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.to",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.to-",
         "target": "ATTRIBUTE-1996-business.employer.employees..business.employment_tenure.to"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.to",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.to-",
         "target": "ATTRIBUTE-1997-business.employer.employees..business.employment_tenure.to"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.to",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.to-",
         "target": "ATTRIBUTE-1998-business.employer.employees..business.employment_tenure.to"
       },
       {
         "source": "m.0cwx_",
-        "target": "organization.organization.board_members..organization.organization_board_membership.title"
+        "target": "m.0cwx_-organization.organization.board_members..organization.organization_board_membership.title-"
       },
       {
-        "source": "organization.organization.board_members..organization.organization_board_membership.title",
+        "source": "m.0cwx_-organization.organization.board_members..organization.organization_board_membership.title-",
         "target": "ATTRIBUTE-Chair-organization.organization.board_members..organization.organization_board_membership.title"
       },
       {
-        "source": "organization.organization.board_members..organization.organization_board_membership.title",
+        "source": "m.0cwx_-organization.organization.board_members..organization.organization_board_membership.title-",
         "target": "ATTRIBUTE-Trustee-organization.organization.board_members..organization.organization_board_membership.title"
       },
       {
         "source": "m.0cwx_",
-        "target": "common.topic.webpage..common.webpage.category"
+        "target": "m.0cwx_-common.topic.webpage..common.webpage.category-"
       },
       {
-        "source": "common.topic.webpage..common.webpage.category",
+        "source": "m.0cwx_-common.topic.webpage..common.webpage.category-",
         "target": "m.08mbj32-Topic Webpage-common.topic.webpage..common.webpage.category"
       },
       {
-        "source": "common.topic.webpage..common.webpage.category",
+        "source": "m.0cwx_-common.topic.webpage..common.webpage.category-",
         "target": "m.08mbj5d-Official Website-common.topic.webpage..common.webpage.category"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.educational_institution.colors"
+        "target": "m.0cwx_-education.educational_institution.colors-"
       },
       {
-        "source": "education.educational_institution.colors",
+        "source": "m.0cwx_-education.educational_institution.colors-",
         "target": "m.040_5r0-Tartan plaid-education.educational_institution.colors"
       },
       {
-        "source": "education.educational_institution.colors",
+        "source": "m.0cwx_-education.educational_institution.colors-",
         "target": "m.036k5h-Grey-education.educational_institution.colors"
       },
       {
-        "source": "education.educational_institution.colors",
+        "source": "m.0cwx_-education.educational_institution.colors-",
         "target": "m.03wkwg-Cardinal-education.educational_institution.colors"
       },
       {
         "source": "m.0cwx_",
-        "target": "award.ranked_item.appears_in_ranked_lists..award.ranking.list"
+        "target": "m.0cwx_-award.ranked_item.appears_in_ranked_lists..award.ranking.list-"
       },
       {
-        "source": "award.ranked_item.appears_in_ranked_lists..award.ranking.list",
+        "source": "m.0cwx_-award.ranked_item.appears_in_ranked_lists..award.ranking.list-",
         "target": "m.0h6jk04-US News & World Report: Best Business Schools-award.ranked_item.appears_in_ranked_lists..award.ranking.list"
       },
       {
-        "source": "award.ranked_item.appears_in_ranked_lists..award.ranking.list",
+        "source": "m.0cwx_-award.ranked_item.appears_in_ranked_lists..award.ranking.list-",
         "target": "m.09g7thr-Times Higher Education World University Rankings-award.ranked_item.appears_in_ranked_lists..award.ranking.list"
       },
       {
-        "source": "award.ranked_item.appears_in_ranked_lists..award.ranking.list",
+        "source": "m.0cwx_-award.ranked_item.appears_in_ranked_lists..award.ranking.list-",
         "target": "m.0ggmrqw-Times Higher Education World Reputation Rankings-award.ranked_item.appears_in_ranked_lists..award.ranking.list"
       },
       {
-        "source": "award.ranked_item.appears_in_ranked_lists..award.ranking.list",
+        "source": "m.0cwx_-award.ranked_item.appears_in_ranked_lists..award.ranking.list-",
         "target": "m.0h615f8-US News & World Report: National University Rankings-award.ranked_item.appears_in_ranked_lists..award.ranking.list"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.educational_institution.total_enrollment..measurement_unit.dated_integer.year"
+        "target": "m.0cwx_-education.educational_institution.total_enrollment..measurement_unit.dated_integer.year-"
       },
       {
-        "source": "education.educational_institution.total_enrollment..measurement_unit.dated_integer.year",
+        "source": "m.0cwx_-education.educational_institution.total_enrollment..measurement_unit.dated_integer.year-",
         "target": "ATTRIBUTE-2007-education.educational_institution.total_enrollment..measurement_unit.dated_integer.year"
       },
       {
-        "source": "education.educational_institution.total_enrollment..measurement_unit.dated_integer.year",
+        "source": "m.0cwx_-education.educational_institution.total_enrollment..measurement_unit.dated_integer.year-",
         "target": "ATTRIBUTE-2011-education.educational_institution.total_enrollment..measurement_unit.dated_integer.year"
       },
       {
         "source": "m.0cwx_",
-        "target": "base.schemastaging.educational_institution_extra.libraries"
+        "target": "m.0cwx_-base.schemastaging.educational_institution_extra.libraries-"
       },
       {
-        "source": "base.schemastaging.educational_institution_extra.libraries",
+        "source": "m.0cwx_-base.schemastaging.educational_institution_extra.libraries-",
         "target": "m.040_65b-Hunt Library-base.schemastaging.educational_institution_extra.libraries"
       },
       {
-        "source": "base.schemastaging.educational_institution_extra.libraries",
+        "source": "m.0cwx_-base.schemastaging.educational_institution_extra.libraries-",
         "target": "m.0j475rc-Roger Sorrells Engineering & Science Library-base.schemastaging.educational_institution_extra.libraries"
       },
       {
-        "source": "base.schemastaging.educational_institution_extra.libraries",
+        "source": "m.0cwx_-base.schemastaging.educational_institution_extra.libraries-",
         "target": "m.0j475rl-Mellon Institute Library-base.schemastaging.educational_institution_extra.libraries"
       },
       {
         "source": "m.0cwx_",
-        "target": "organization.organization.date_founded"
+        "target": "m.0cwx_-organization.organization.date_founded-"
       },
       {
-        "source": "organization.organization.date_founded",
+        "source": "m.0cwx_-organization.organization.date_founded-",
         "target": "ATTRIBUTE-1900-organization.organization.date_founded"
       },
       {
         "source": "m.0cwx_",
-        "target": "organization.organization.leadership..organization.leadership.person"
+        "target": "m.0cwx_-organization.organization.leadership..organization.leadership.person-"
       },
       {
-        "source": "organization.organization.leadership..organization.leadership.person",
+        "source": "m.0cwx_-organization.organization.leadership..organization.leadership.person-",
         "target": "m.04d45w-Jared Cohon-organization.organization.leadership..organization.leadership.person"
       },
       {
         "source": "m.0cwx_",
-        "target": "award.ranked_item.appears_in_ranked_lists..award.ranking.year"
+        "target": "m.0cwx_-award.ranked_item.appears_in_ranked_lists..award.ranking.year-"
       },
       {
-        "source": "award.ranked_item.appears_in_ranked_lists..award.ranking.year",
+        "source": "m.0cwx_-award.ranked_item.appears_in_ranked_lists..award.ranking.year-",
         "target": "ATTRIBUTE-2010-award.ranked_item.appears_in_ranked_lists..award.ranking.year"
       },
       {
-        "source": "award.ranked_item.appears_in_ranked_lists..award.ranking.year",
+        "source": "m.0cwx_-award.ranked_item.appears_in_ranked_lists..award.ranking.year-",
         "target": "ATTRIBUTE-2011-award.ranked_item.appears_in_ranked_lists..award.ranking.year"
       },
       {
-        "source": "award.ranked_item.appears_in_ranked_lists..award.ranking.year",
+        "source": "m.0cwx_-award.ranked_item.appears_in_ranked_lists..award.ranking.year-",
         "target": "ATTRIBUTE-2012-award.ranked_item.appears_in_ranked_lists..award.ranking.year"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.university.number_of_postgraduates..measurement_unit.dated_integer.year"
+        "target": "m.0cwx_-education.university.number_of_postgraduates..measurement_unit.dated_integer.year-"
       },
       {
-        "source": "education.university.number_of_postgraduates..measurement_unit.dated_integer.year",
+        "source": "m.0cwx_-education.university.number_of_postgraduates..measurement_unit.dated_integer.year-",
         "target": "ATTRIBUTE-2007-education.university.number_of_postgraduates..measurement_unit.dated_integer.year"
       },
       {
-        "source": "education.university.number_of_postgraduates..measurement_unit.dated_integer.year",
+        "source": "m.0cwx_-education.university.number_of_postgraduates..measurement_unit.dated_integer.year-",
         "target": "ATTRIBUTE-2010-education.university.number_of_postgraduates..measurement_unit.dated_integer.year"
       },
       {
-        "source": "education.university.number_of_postgraduates..measurement_unit.dated_integer.year",
+        "source": "m.0cwx_-education.university.number_of_postgraduates..measurement_unit.dated_integer.year-",
         "target": "ATTRIBUTE-2011-education.university.number_of_postgraduates..measurement_unit.dated_integer.year"
       },
       {
         "source": "m.0cwx_",
-        "target": "business.business_operation.operating_income..measurement_unit.dated_money_value.currency"
+        "target": "m.0cwx_-business.business_operation.operating_income..measurement_unit.dated_money_value.currency-"
       },
       {
-        "source": "business.business_operation.operating_income..measurement_unit.dated_money_value.currency",
+        "source": "m.0cwx_-business.business_operation.operating_income..measurement_unit.dated_money_value.currency-",
         "target": "m.09nqf-United States dollar-business.business_operation.operating_income..measurement_unit.dated_money_value.currency"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.university.domestic_tuition..measurement_unit.dated_money_value.amount"
+        "target": "m.0cwx_-education.university.domestic_tuition..measurement_unit.dated_money_value.amount-"
       },
       {
-        "source": "education.university.domestic_tuition..measurement_unit.dated_money_value.amount",
+        "source": "m.0cwx_-education.university.domestic_tuition..measurement_unit.dated_money_value.amount-",
         "target": "ATTRIBUTE-39754-education.university.domestic_tuition..measurement_unit.dated_money_value.amount"
       },
       {
-        "source": "education.university.domestic_tuition..measurement_unit.dated_money_value.amount",
+        "source": "m.0cwx_-education.university.domestic_tuition..measurement_unit.dated_money_value.amount-",
         "target": "ATTRIBUTE-40920-education.university.domestic_tuition..measurement_unit.dated_money_value.amount"
       },
       {
-        "source": "education.university.domestic_tuition..measurement_unit.dated_money_value.amount",
+        "source": "m.0cwx_-education.university.domestic_tuition..measurement_unit.dated_money_value.amount-",
         "target": "ATTRIBUTE-42136-education.university.domestic_tuition..measurement_unit.dated_money_value.amount"
       },
       {
-        "source": "education.university.domestic_tuition..measurement_unit.dated_money_value.amount",
+        "source": "m.0cwx_-education.university.domestic_tuition..measurement_unit.dated_money_value.amount-",
         "target": "ATTRIBUTE-44010-education.university.domestic_tuition..measurement_unit.dated_money_value.amount"
       },
       {
         "source": "m.0cwx_",
-        "target": "business.employer.employees..business.employment_tenure.person"
+        "target": "m.0cwx_-business.employer.employees..business.employment_tenure.person-"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.person",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.person-",
         "target": "m.01g5n7-Julius Baker-business.employer.employees..business.employment_tenure.person"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.person",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.person-",
         "target": "m.01q5yp-Allen Newell-business.employer.employees..business.employment_tenure.person"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.person",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.person-",
         "target": "m.01r_kf-Robert W. Floyd-business.employer.employees..business.employment_tenure.person"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.person",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.person-",
         "target": "m.01svdr-Manuel Blum-business.employer.employees..business.employment_tenure.person"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.person",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.person-",
         "target": "m.03mgv9q-Edmund M. Clarke-business.employer.employees..business.employment_tenure.person"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.person",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.person-",
         "target": "m.04yclz-Leonardo Balada-business.employer.employees..business.employment_tenure.person"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.person",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.person-",
         "target": "m.02q3gh8-Nico Habermann-business.employer.employees..business.employment_tenure.person"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.person",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.person-",
         "target": "m.0c1pwzn-James M. Patell-business.employer.employees..business.employment_tenure.person"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.person",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.person-",
         "target": "m.03gst99-Robyn Dawes-business.employer.employees..business.employment_tenure.person"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.person",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.person-",
         "target": "m.03xdtq_-Ripta Pasay-business.employer.employees..business.employment_tenure.person"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.person",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.person-",
         "target": "m.04d45w-Jared Cohon-business.employer.employees..business.employment_tenure.person"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.person",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.person-",
         "target": "m.06ck6h-Jack Goldman-business.employer.employees..business.employment_tenure.person"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.person",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.person-",
         "target": "m.02rh6j7-Thomas Baker-business.employer.employees..business.employment_tenure.person"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.person",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.person-",
         "target": "m.02rfgnp-Robert Mehrabian-business.employer.employees..business.employment_tenure.person"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.person",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.person-",
         "target": "m.046k7-John Pople-business.employer.employees..business.employment_tenure.person"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.person",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.person-",
         "target": "m.03gtxtm-Krzysztof Matyjaszewski-business.employer.employees..business.employment_tenure.person"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.person",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.person-",
         "target": "m.0277f5v-Peter Oresick-business.employer.employees..business.employment_tenure.person"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.person",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.person-",
         "target": "m.0428hz-Finn E. Kydland-business.employer.employees..business.employment_tenure.person"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.person",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.person-",
         "target": "m.020h0l-David Parnas-business.employer.employees..business.employment_tenure.person"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.person",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.person-",
         "target": "m.022pv1n-Guy Steele-business.employer.employees..business.employment_tenure.person"
       },
       {
-        "source": "business.employer.employees..business.employment_tenure.person",
+        "source": "m.0cwx_-business.employer.employees..business.employment_tenure.person-",
         "target": "m.03d1bf3-Richard L. Van Horn-business.employer.employees..business.employment_tenure.person"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.university.acceptance_rate..education.acceptance_rate.rate"
+        "target": "m.0cwx_-education.university.acceptance_rate..education.acceptance_rate.rate-"
       },
       {
-        "source": "education.university.acceptance_rate..education.acceptance_rate.rate",
+        "source": "m.0cwx_-education.university.acceptance_rate..education.acceptance_rate.rate-",
         "target": "ATTRIBUTE-30-education.university.acceptance_rate..education.acceptance_rate.rate"
       },
       {
-        "source": "education.university.acceptance_rate..education.acceptance_rate.rate",
+        "source": "m.0cwx_-education.university.acceptance_rate..education.acceptance_rate.rate-",
         "target": "ATTRIBUTE-30.4-education.university.acceptance_rate..education.acceptance_rate.rate"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.university.number_of_postgraduates..measurement_unit.dated_integer.number"
+        "target": "m.0cwx_-education.university.number_of_postgraduates..measurement_unit.dated_integer.number-"
       },
       {
-        "source": "education.university.number_of_postgraduates..measurement_unit.dated_integer.number",
+        "source": "m.0cwx_-education.university.number_of_postgraduates..measurement_unit.dated_integer.number-",
         "target": "ATTRIBUTE-4644-education.university.number_of_postgraduates..measurement_unit.dated_integer.number"
       },
       {
-        "source": "education.university.number_of_postgraduates..measurement_unit.dated_integer.number",
+        "source": "m.0cwx_-education.university.number_of_postgraduates..measurement_unit.dated_integer.number-",
         "target": "ATTRIBUTE-5265-education.university.number_of_postgraduates..measurement_unit.dated_integer.number"
       },
       {
-        "source": "education.university.number_of_postgraduates..measurement_unit.dated_integer.number",
+        "source": "m.0cwx_-education.university.number_of_postgraduates..measurement_unit.dated_integer.number-",
         "target": "ATTRIBUTE-5510-education.university.number_of_postgraduates..measurement_unit.dated_integer.number"
       },
       {
-        "source": "education.university.number_of_postgraduates..measurement_unit.dated_integer.number",
+        "source": "m.0cwx_-education.university.number_of_postgraduates..measurement_unit.dated_integer.number-",
         "target": "ATTRIBUTE-5777-education.university.number_of_postgraduates..measurement_unit.dated_integer.number"
       },
       {
-        "source": "education.university.number_of_postgraduates..measurement_unit.dated_integer.number",
+        "source": "m.0cwx_-education.university.number_of_postgraduates..measurement_unit.dated_integer.number-",
         "target": "ATTRIBUTE-6290-education.university.number_of_postgraduates..measurement_unit.dated_integer.number"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.university.domestic_tuition..measurement_unit.dated_money_value.valid_date"
+        "target": "m.0cwx_-education.university.domestic_tuition..measurement_unit.dated_money_value.valid_date-"
       },
       {
-        "source": "education.university.domestic_tuition..measurement_unit.dated_money_value.valid_date",
+        "source": "m.0cwx_-education.university.domestic_tuition..measurement_unit.dated_money_value.valid_date-",
         "target": "ATTRIBUTE-2008-education.university.domestic_tuition..measurement_unit.dated_money_value.valid_date"
       },
       {
-        "source": "education.university.domestic_tuition..measurement_unit.dated_money_value.valid_date",
+        "source": "m.0cwx_-education.university.domestic_tuition..measurement_unit.dated_money_value.valid_date-",
         "target": "ATTRIBUTE-2009-education.university.domestic_tuition..measurement_unit.dated_money_value.valid_date"
       },
       {
-        "source": "education.university.domestic_tuition..measurement_unit.dated_money_value.valid_date",
+        "source": "m.0cwx_-education.university.domestic_tuition..measurement_unit.dated_money_value.valid_date-",
         "target": "ATTRIBUTE-2010-education.university.domestic_tuition..measurement_unit.dated_money_value.valid_date"
       },
       {
-        "source": "education.university.domestic_tuition..measurement_unit.dated_money_value.valid_date",
+        "source": "m.0cwx_-education.university.domestic_tuition..measurement_unit.dated_money_value.valid_date-",
         "target": "ATTRIBUTE-2011-education.university.domestic_tuition..measurement_unit.dated_money_value.valid_date"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.university.domestic_tuition..measurement_unit.dated_money_value.currency"
+        "target": "m.0cwx_-education.university.domestic_tuition..measurement_unit.dated_money_value.currency-"
       },
       {
-        "source": "education.university.domestic_tuition..measurement_unit.dated_money_value.currency",
+        "source": "m.0cwx_-education.university.domestic_tuition..measurement_unit.dated_money_value.currency-",
         "target": "m.09nqf-United States dollar-education.university.domestic_tuition..measurement_unit.dated_money_value.currency"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.educational_institution.subsidiary_or_constituent_schools"
+        "target": "m.0cwx_-education.educational_institution.subsidiary_or_constituent_schools-"
       },
       {
-        "source": "education.educational_institution.subsidiary_or_constituent_schools",
+        "source": "m.0cwx_-education.educational_institution.subsidiary_or_constituent_schools-",
         "target": "m.01q2sk-Carnegie Institute of Technology-education.educational_institution.subsidiary_or_constituent_schools"
       },
       {
-        "source": "education.educational_institution.subsidiary_or_constituent_schools",
+        "source": "m.0cwx_-education.educational_institution.subsidiary_or_constituent_schools-",
         "target": "m.01q2tq-Carnegie Mellon School of Computer Science-education.educational_institution.subsidiary_or_constituent_schools"
       },
       {
-        "source": "education.educational_institution.subsidiary_or_constituent_schools",
+        "source": "m.0cwx_-education.educational_institution.subsidiary_or_constituent_schools-",
         "target": "m.0drqwd-Heinz School Australia-education.educational_institution.subsidiary_or_constituent_schools"
       },
       {
-        "source": "education.educational_institution.subsidiary_or_constituent_schools",
+        "source": "m.0cwx_-education.educational_institution.subsidiary_or_constituent_schools-",
         "target": "m.01q2v1-Tepper School of Business-education.educational_institution.subsidiary_or_constituent_schools"
       },
       {
-        "source": "education.educational_institution.subsidiary_or_constituent_schools",
+        "source": "m.0cwx_-education.educational_institution.subsidiary_or_constituent_schools-",
         "target": "m.05vfrc-Carnegie Mellon College of Humanities and Social Sciences-education.educational_institution.subsidiary_or_constituent_schools"
       },
       {
-        "source": "education.educational_institution.subsidiary_or_constituent_schools",
+        "source": "m.0cwx_-education.educational_institution.subsidiary_or_constituent_schools-",
         "target": "m.02697v_-Carnegie Mellon School of Architecture-education.educational_institution.subsidiary_or_constituent_schools"
       },
       {
-        "source": "education.educational_institution.subsidiary_or_constituent_schools",
+        "source": "m.0cwx_-education.educational_institution.subsidiary_or_constituent_schools-",
         "target": "m.0615hm-Carnegie Mellon University West-education.educational_institution.subsidiary_or_constituent_schools"
       },
       {
-        "source": "education.educational_institution.subsidiary_or_constituent_schools",
+        "source": "m.0cwx_-education.educational_institution.subsidiary_or_constituent_schools-",
         "target": "m.0fqprt-Carnegie Mellon School of Music-education.educational_institution.subsidiary_or_constituent_schools"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.educational_institution.students_graduates..education.education.specialization"
+        "target": "m.0cwx_-education.educational_institution.students_graduates..education.education.specialization-"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.specialization",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.specialization-",
         "target": "m.0lg1b4q-Software Development Management-education.educational_institution.students_graduates..education.education.specialization"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.specialization",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.specialization-",
         "target": "m.01hyh_-Machine learning-education.educational_institution.students_graduates..education.education.specialization"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.specialization",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.specialization-",
         "target": "m.03j0x-Human\u2013computer interaction-education.educational_institution.students_graduates..education.education.specialization"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.specialization",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.specialization-",
         "target": "m.03xdts3-Communication and Design-education.educational_institution.students_graduates..education.education.specialization"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.specialization",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.specialization-",
         "target": "m.025sh1c-Professional writing-education.educational_institution.students_graduates..education.education.specialization"
       },
       {
         "source": "m.0cwx_",
-        "target": "common.topic.topical_webpage"
+        "target": "m.0cwx_-common.topic.topical_webpage-"
       },
       {
-        "source": "common.topic.topical_webpage",
+        "source": "m.0cwx_-common.topic.topical_webpage-",
         "target": "ATTRIBUTE-http://topics.nytimes.com/top/reference/timestopics/organizations/c/carnegie_mellon_university/index.html-common.topic.topical_webpage"
       },
       {
         "source": "m.0cwx_",
-        "target": "organization.organization.headquarters..location.mailing_address.street_address"
+        "target": "m.0cwx_-organization.organization.headquarters..location.mailing_address.street_address-"
       },
       {
-        "source": "organization.organization.headquarters..location.mailing_address.street_address",
+        "source": "m.0cwx_-organization.organization.headquarters..location.mailing_address.street_address-",
         "target": "ATTRIBUTE-5000 Forbes Ave-organization.organization.headquarters..location.mailing_address.street_address"
       },
       {
         "source": "m.0cwx_",
-        "target": "organization.organization.child..organization.organization_relationship.child"
+        "target": "m.0cwx_-organization.organization.child..organization.organization_relationship.child-"
       },
       {
-        "source": "organization.organization.child..organization.organization_relationship.child",
+        "source": "m.0cwx_-organization.organization.child..organization.organization_relationship.child-",
         "target": "m.01q2sy-Heinz School-organization.organization.child..organization.organization_relationship.child"
       },
       {
-        "source": "organization.organization.child..organization.organization_relationship.child",
+        "source": "m.0cwx_-organization.organization.child..organization.organization_relationship.child-",
         "target": "m.0615hm-Carnegie Mellon University West-organization.organization.child..organization.organization_relationship.child"
       },
       {
-        "source": "organization.organization.child..organization.organization_relationship.child",
+        "source": "m.0cwx_-organization.organization.child..organization.organization_relationship.child-",
         "target": "m.0615j9-Carnegie Mellon University in Qatar-organization.organization.child..organization.organization_relationship.child"
       },
       {
         "source": "m.0cwx_",
-        "target": "book.book_subject.works"
+        "target": "m.0cwx_-book.book_subject.works-"
       },
       {
-        "source": "book.book_subject.works",
+        "source": "m.0cwx_-book.book_subject.works-",
         "target": "m.04fxfzh-Unlocking the Clubhouse: Women in Computing-book.book_subject.works"
       },
       {
         "source": "m.0cwx_",
-        "target": "common.topic.social_media_presence"
+        "target": "m.0cwx_-common.topic.social_media_presence-"
       },
       {
-        "source": "common.topic.social_media_presence",
+        "source": "m.0cwx_-common.topic.social_media_presence-",
         "target": "ATTRIBUTE-http://plus.google.com/116982447652810583130-common.topic.social_media_presence"
       },
       {
         "source": "m.0cwx_",
-        "target": "business.business_operation.operating_income..measurement_unit.dated_money_value.valid_date"
+        "target": "m.0cwx_-business.business_operation.operating_income..measurement_unit.dated_money_value.valid_date-"
       },
       {
-        "source": "business.business_operation.operating_income..measurement_unit.dated_money_value.valid_date",
+        "source": "m.0cwx_-business.business_operation.operating_income..measurement_unit.dated_money_value.valid_date-",
         "target": "ATTRIBUTE-2011-business.business_operation.operating_income..measurement_unit.dated_money_value.valid_date"
       },
       {
         "source": "m.0cwx_",
-        "target": "location.location.contains"
+        "target": "m.0cwx_-location.location.contains-"
       },
       {
-        "source": "location.location.contains",
+        "source": "m.0cwx_-location.location.contains-",
         "target": "m.03xkgl2-Wean Hall-location.location.contains"
       },
       {
-        "source": "location.location.contains",
+        "source": "m.0cwx_-location.location.contains-",
         "target": "m.040_683-Collaborative Innovation Center-location.location.contains"
       },
       {
-        "source": "location.location.contains",
+        "source": "m.0cwx_-location.location.contains-",
         "target": "m.03xkgkx-Baker Hall-location.location.contains"
       },
       {
-        "source": "location.location.contains",
+        "source": "m.0cwx_-location.location.contains-",
         "target": "m.03xkgl8-Porter Hall-location.location.contains"
       },
       {
-        "source": "location.location.contains",
+        "source": "m.0cwx_-location.location.contains-",
         "target": "m.040_654-Roberts Engineering Hall-location.location.contains"
       },
       {
-        "source": "location.location.contains",
+        "source": "m.0cwx_-location.location.contains-",
         "target": "m.040_65b-Hunt Library-location.location.contains"
       },
       {
-        "source": "location.location.contains",
+        "source": "m.0cwx_-location.location.contains-",
         "target": "m.040_66_-Newell-Simon Hall-location.location.contains"
       },
       {
-        "source": "location.location.contains",
+        "source": "m.0cwx_-location.location.contains-",
         "target": "m.040_675-Hamerschlag Hall-location.location.contains"
       },
       {
-        "source": "location.location.contains",
+        "source": "m.0cwx_-location.location.contains-",
         "target": "m.040_67c-Hamburg Hall-location.location.contains"
       },
       {
-        "source": "location.location.contains",
+        "source": "m.0cwx_-location.location.contains-",
         "target": "m.040_67k-Cyert Hall-location.location.contains"
       },
       {
-        "source": "location.location.contains",
+        "source": "m.0cwx_-location.location.contains-",
         "target": "m.040_67r-Scaife Hall-location.location.contains"
       },
       {
-        "source": "location.location.contains",
+        "source": "m.0cwx_-location.location.contains-",
         "target": "m.040_67y-Posner Hall-location.location.contains"
       },
       {
-        "source": "location.location.contains",
+        "source": "m.0cwx_-location.location.contains-",
         "target": "m.040_64z-Doherty Hall-location.location.contains"
       },
       {
         "source": "m.0cwx_",
-        "target": "common.topic.alias"
+        "target": "m.0cwx_-common.topic.alias-"
       },
       {
-        "source": "common.topic.alias",
+        "source": "m.0cwx_-common.topic.alias-",
         "target": "ATTRIBUTE-CMU-common.topic.alias"
       },
       {
-        "source": "common.topic.alias",
+        "source": "m.0cwx_-common.topic.alias-",
         "target": "ATTRIBUTE-Carnegie Mellon University, Pittsburgh-common.topic.alias"
       },
       {
-        "source": "common.topic.alias",
+        "source": "m.0cwx_-common.topic.alias-",
         "target": "ATTRIBUTE-Carnegie Mellon University, Pittsburgh Campus-common.topic.alias"
       },
       {
         "source": "m.0cwx_",
-        "target": "organization.organization_member.member_of..organization.organization_membership.from"
+        "target": "m.0cwx_-organization.organization_member.member_of..organization.organization_membership.from-"
       },
       {
-        "source": "organization.organization_member.member_of..organization.organization_membership.from",
+        "source": "m.0cwx_-organization.organization_member.member_of..organization.organization_membership.from-",
         "target": "ATTRIBUTE-1982-organization.organization_member.member_of..organization.organization_membership.from"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.educational_institution.school_type"
+        "target": "m.0cwx_-education.educational_institution.school_type-"
       },
       {
-        "source": "education.educational_institution.school_type",
+        "source": "m.0cwx_-education.educational_institution.school_type-",
         "target": "m.07tf8-University-education.educational_institution.school_type"
       },
       {
-        "source": "education.educational_institution.school_type",
+        "source": "m.0cwx_-education.educational_institution.school_type-",
         "target": "m.05pcjw-Private university-education.educational_institution.school_type"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.university.acceptance_rate..education.acceptance_rate.year"
+        "target": "m.0cwx_-education.university.acceptance_rate..education.acceptance_rate.year-"
       },
       {
-        "source": "education.university.acceptance_rate..education.acceptance_rate.year",
+        "source": "m.0cwx_-education.university.acceptance_rate..education.acceptance_rate.year-",
         "target": "ATTRIBUTE-2011-education.university.acceptance_rate..education.acceptance_rate.year"
       },
       {
-        "source": "education.university.acceptance_rate..education.acceptance_rate.year",
+        "source": "m.0cwx_-education.university.acceptance_rate..education.acceptance_rate.year-",
         "target": "ATTRIBUTE-2012-education.university.acceptance_rate..education.acceptance_rate.year"
       },
       {
         "source": "m.0cwx_",
-        "target": "internet.website_owner.websites_owned"
+        "target": "m.0cwx_-internet.website_owner.websites_owned-"
       },
       {
-        "source": "internet.website_owner.websites_owned",
+        "source": "m.0cwx_-internet.website_owner.websites_owned-",
         "target": "m.050_lw3-gwap.com-internet.website_owner.websites_owned"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.educational_institution.students_graduates..education.education.start_date"
+        "target": "m.0cwx_-education.educational_institution.students_graduates..education.education.start_date-"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.start_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.start_date-",
         "target": "ATTRIBUTE-1964-education.educational_institution.students_graduates..education.education.start_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.start_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.start_date-",
         "target": "ATTRIBUTE-1967-education.educational_institution.students_graduates..education.education.start_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.start_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.start_date-",
         "target": "ATTRIBUTE-1975-education.educational_institution.students_graduates..education.education.start_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.start_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.start_date-",
         "target": "ATTRIBUTE-1989-08-education.educational_institution.students_graduates..education.education.start_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.start_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.start_date-",
         "target": "ATTRIBUTE-1990-09-education.educational_institution.students_graduates..education.education.start_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.start_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.start_date-",
         "target": "ATTRIBUTE-1993-education.educational_institution.students_graduates..education.education.start_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.start_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.start_date-",
         "target": "ATTRIBUTE-1995-education.educational_institution.students_graduates..education.education.start_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.start_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.start_date-",
         "target": "ATTRIBUTE-1997-01-education.educational_institution.students_graduates..education.education.start_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.start_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.start_date-",
         "target": "ATTRIBUTE-2005-education.educational_institution.students_graduates..education.education.start_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.start_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.start_date-",
         "target": "ATTRIBUTE-2005-09-education.educational_institution.students_graduates..education.education.start_date"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.start_date",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.start_date-",
         "target": "ATTRIBUTE-2006-08-education.educational_institution.students_graduates..education.education.start_date"
       },
       {
         "source": "m.0cwx_",
-        "target": "organization.organization.founders"
+        "target": "m.0cwx_-organization.organization.founders-"
       },
       {
-        "source": "organization.organization.founders",
+        "source": "m.0cwx_-organization.organization.founders-",
         "target": "m.0vdk-Andrew Carnegie-organization.organization.founders"
       },
       {
         "source": "m.0cwx_",
-        "target": "organization.organization.headquarters..location.mailing_address.country"
+        "target": "m.0cwx_-organization.organization.headquarters..location.mailing_address.country-"
       },
       {
-        "source": "organization.organization.headquarters..location.mailing_address.country",
+        "source": "m.0cwx_-organization.organization.headquarters..location.mailing_address.country-",
         "target": "m.09c7w0-United States of America-organization.organization.headquarters..location.mailing_address.country"
       },
       {
         "source": "m.0cwx_",
-        "target": "organization.endowed_organization.endowment..measurement_unit.dated_money_value.currency"
+        "target": "m.0cwx_-organization.endowed_organization.endowment..measurement_unit.dated_money_value.currency-"
       },
       {
-        "source": "organization.endowed_organization.endowment..measurement_unit.dated_money_value.currency",
+        "source": "m.0cwx_-organization.endowed_organization.endowment..measurement_unit.dated_money_value.currency-",
         "target": "m.09nqf-United States dollar-organization.endowed_organization.endowment..measurement_unit.dated_money_value.currency"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.educational_institution.newspaper"
+        "target": "m.0cwx_-education.educational_institution.newspaper-"
       },
       {
-        "source": "education.educational_institution.newspaper",
+        "source": "m.0cwx_-education.educational_institution.newspaper-",
         "target": "m.040_6jy-The Cut-education.educational_institution.newspaper"
       },
       {
-        "source": "education.educational_institution.newspaper",
+        "source": "m.0cwx_-education.educational_institution.newspaper-",
         "target": "m.02z3cj-The Tartan-education.educational_institution.newspaper"
       },
       {
-        "source": "education.educational_institution.newspaper",
+        "source": "m.0cwx_-education.educational_institution.newspaper-",
         "target": "m.040_6jp-Readme-education.educational_institution.newspaper"
       },
       {
         "source": "m.0cwx_",
-        "target": "location.location.time_zones"
+        "target": "m.0cwx_-location.location.time_zones-"
       },
       {
-        "source": "location.location.time_zones",
+        "source": "m.0cwx_-location.location.time_zones-",
         "target": "m.02hcv8-Eastern Time Zone-location.location.time_zones"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.educational_institution_campus.educational_institution"
+        "target": "m.0cwx_-education.educational_institution_campus.educational_institution-"
       },
       {
-        "source": "education.educational_institution_campus.educational_institution",
+        "source": "m.0cwx_-education.educational_institution_campus.educational_institution-",
         "target": "m.0cwx_-Carnegie Mellon University-education.educational_institution_campus.educational_institution"
       },
       {
         "source": "m.0cwx_",
-        "target": "common.topic.webpage..common.webpage.description"
+        "target": "m.0cwx_-common.topic.webpage..common.webpage.description-"
       },
       {
-        "source": "common.topic.webpage..common.webpage.description",
+        "source": "m.0cwx_-common.topic.webpage..common.webpage.description-",
         "target": "ATTRIBUTE-New York Times-common.topic.webpage..common.webpage.description"
       },
       {
-        "source": "common.topic.webpage..common.webpage.description",
+        "source": "m.0cwx_-common.topic.webpage..common.webpage.description-",
         "target": "ATTRIBUTE-School main page-common.topic.webpage..common.webpage.description"
       },
       {
         "source": "m.0cwx_",
-        "target": "film.film_location.featured_in_films"
+        "target": "m.0cwx_-film.film_location.featured_in_films-"
       },
       {
-        "source": "film.film_location.featured_in_films",
+        "source": "m.0cwx_-film.film_location.featured_in_films-",
         "target": "m.02q56mk-Wonder Boys-film.film_location.featured_in_films"
       },
       {
-        "source": "film.film_location.featured_in_films",
+        "source": "m.0cwx_-film.film_location.featured_in_films-",
         "target": "m.0p9lw-Dogma-film.film_location.featured_in_films"
       },
       {
-        "source": "film.film_location.featured_in_films",
+        "source": "m.0cwx_-film.film_location.featured_in_films-",
         "target": "m.026hfdp-Smart People-film.film_location.featured_in_films"
       },
       {
         "source": "m.0cwx_",
-        "target": "base.ontologies.ontology_instance.equivalent_instances..base.ontologies.ontology_instance_mapping.ontology"
+        "target": "m.0cwx_-base.ontologies.ontology_instance.equivalent_instances..base.ontologies.ontology_instance_mapping.ontology-"
       },
       {
-        "source": "base.ontologies.ontology_instance.equivalent_instances..base.ontologies.ontology_instance_mapping.ontology",
+        "source": "m.0cwx_-base.ontologies.ontology_instance.equivalent_instances..base.ontologies.ontology_instance_mapping.ontology-",
         "target": "m.04dm2p_-OpenCyc-base.ontologies.ontology_instance.equivalent_instances..base.ontologies.ontology_instance_mapping.ontology"
       },
       {
         "source": "m.0cwx_",
-        "target": "common.topic.webpage..common.webpage.resource"
+        "target": "m.0cwx_-common.topic.webpage..common.webpage.resource-"
       },
       {
-        "source": "common.topic.webpage..common.webpage.resource",
+        "source": "m.0cwx_-common.topic.webpage..common.webpage.resource-",
         "target": "m.0bjmqcz-New York Times-common.topic.webpage..common.webpage.resource"
       },
       {
-        "source": "common.topic.webpage..common.webpage.resource",
+        "source": "m.0cwx_-common.topic.webpage..common.webpage.resource-",
         "target": "m.0bkr5vh-School main page-common.topic.webpage..common.webpage.resource"
       },
       {
         "source": "m.0cwx_",
-        "target": "base.schemastaging.non_profit_extra.classification"
+        "target": "m.0cwx_-base.schemastaging.non_profit_extra.classification-"
       },
       {
-        "source": "base.schemastaging.non_profit_extra.classification",
+        "source": "m.0cwx_-base.schemastaging.non_profit_extra.classification-",
         "target": "m.0ppgm1j-University or Technological Institutions-base.schemastaging.non_profit_extra.classification"
       },
       {
         "source": "m.0cwx_",
-        "target": "business.business_operation.revenue..measurement_unit.dated_money_value.amount"
+        "target": "m.0cwx_-business.business_operation.revenue..measurement_unit.dated_money_value.amount-"
       },
       {
-        "source": "business.business_operation.revenue..measurement_unit.dated_money_value.amount",
+        "source": "m.0cwx_-business.business_operation.revenue..measurement_unit.dated_money_value.amount-",
         "target": "ATTRIBUTE-1153711410-business.business_operation.revenue..measurement_unit.dated_money_value.amount"
       },
       {
         "source": "m.0cwx_",
-        "target": "business.business_operation.operating_income..measurement_unit.dated_money_value.amount"
+        "target": "m.0cwx_-business.business_operation.operating_income..measurement_unit.dated_money_value.amount-"
       },
       {
-        "source": "business.business_operation.operating_income..measurement_unit.dated_money_value.amount",
+        "source": "m.0cwx_-business.business_operation.operating_income..measurement_unit.dated_money_value.amount-",
         "target": "ATTRIBUTE-1612144340-business.business_operation.operating_income..measurement_unit.dated_money_value.amount"
       },
       {
         "source": "m.0cwx_",
-        "target": "business.business_operation.assets..measurement_unit.dated_money_value.currency"
+        "target": "m.0cwx_-business.business_operation.assets..measurement_unit.dated_money_value.currency-"
       },
       {
-        "source": "business.business_operation.assets..measurement_unit.dated_money_value.currency",
+        "source": "m.0cwx_-business.business_operation.assets..measurement_unit.dated_money_value.currency-",
         "target": "m.09nqf-United States dollar-business.business_operation.assets..measurement_unit.dated_money_value.currency"
       },
       {
         "source": "m.0cwx_",
-        "target": "location.location.geolocation..location.geocode.latitude"
+        "target": "m.0cwx_-location.location.geolocation..location.geocode.latitude-"
       },
       {
-        "source": "location.location.geolocation..location.geocode.latitude",
+        "source": "m.0cwx_-location.location.geolocation..location.geocode.latitude-",
         "target": "ATTRIBUTE-40.4433-location.location.geolocation..location.geocode.latitude"
       },
       {
         "source": "m.0cwx_",
-        "target": "education.educational_institution.students_graduates..education.education.minor"
+        "target": "m.0cwx_-education.educational_institution.students_graduates..education.education.minor-"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.minor",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.minor-",
         "target": "m.0jjw-Art-education.educational_institution.students_graduates..education.education.minor"
       },
       {
-        "source": "education.educational_institution.students_graduates..education.education.minor",
+        "source": "m.0cwx_-education.educational_institution.students_graduates..education.education.minor-",
         "target": "m.0bbqvk6-Computer Science-education.educational_institution.students_graduates..education.education.minor"
       },
       {
         "source": "m.0cwx_",
-        "target": "base.jewlib.parent_institution.judaica_owning_units"
+        "target": "m.0cwx_-base.jewlib.parent_institution.judaica_owning_units-"
       },
       {
-        "source": "base.jewlib.parent_institution.judaica_owning_units",
+        "source": "m.0cwx_-base.jewlib.parent_institution.judaica_owning_units-",
         "target": "m.0745n5k-Carnegie Mellon University Libraries-base.jewlib.parent_institution.judaica_owning_units"
       },
       {
         "source": "m.0cwx_",
-        "target": "award.ranked_item.appears_in_ranked_lists..award.ranking.rank"
+        "target": "m.0cwx_-award.ranked_item.appears_in_ranked_lists..award.ranking.rank-"
       },
       {
-        "source": "award.ranked_item.appears_in_ranked_lists..award.ranking.rank",
+        "source": "m.0cwx_-award.ranked_item.appears_in_ranked_lists..award.ranking.rank-",
         "target": "ATTRIBUTE-18-award.ranked_item.appears_in_ranked_lists..award.ranking.rank"
       },
       {
-        "source": "award.ranked_item.appears_in_ranked_lists..award.ranking.rank",
+        "source": "m.0cwx_-award.ranked_item.appears_in_ranked_lists..award.ranking.rank-",
         "target": "ATTRIBUTE-20-award.ranked_item.appears_in_ranked_lists..award.ranking.rank"
       },
       {
-        "source": "award.ranked_item.appears_in_ranked_lists..award.ranking.rank",
+        "source": "m.0cwx_-award.ranked_item.appears_in_ranked_lists..award.ranking.rank-",
         "target": "ATTRIBUTE-23-award.ranked_item.appears_in_ranked_lists..award.ranking.rank"
       },
       {
-        "source": "award.ranked_item.appears_in_ranked_lists..award.ranking.rank",
+        "source": "m.0cwx_-award.ranked_item.appears_in_ranked_lists..award.ranking.rank-",
         "target": "ATTRIBUTE-28-award.ranked_item.appears_in_ranked_lists..award.ranking.rank"
       },
       {
         "source": "m.0cwx_",
-        "target": "type.object.name"
+        "target": "m.0cwx_-type.object.name-"
       },
       {
-        "source": "type.object.name",
+        "source": "m.0cwx_-type.object.name-",
         "target": "ATTRIBUTE-Carnegie Mellon University-type.object.name"
       },
       {
         "source": "m.0cwx_",
-        "target": "business.business_operation.assets..measurement_unit.dated_money_value.amount"
+        "target": "m.0cwx_-business.business_operation.assets..measurement_unit.dated_money_value.amount-"
       },
       {
-        "source": "business.business_operation.assets..measurement_unit.dated_money_value.amount",
+        "source": "m.0cwx_-business.business_operation.assets..measurement_unit.dated_money_value.amount-",
         "target": "ATTRIBUTE-2276264220-business.business_operation.assets..measurement_unit.dated_money_value.amount"
       },
       {
         "source": "m.0cwx_",
-        "target": "business.business_operation.revenue..measurement_unit.dated_money_value.currency"
+        "target": "m.0cwx_-business.business_operation.revenue..measurement_unit.dated_money_value.currency-"
       },
       {
-        "source": "business.business_operation.revenue..measurement_unit.dated_money_value.currency",
+        "source": "m.0cwx_-business.business_operation.revenue..measurement_unit.dated_money_value.currency-",
         "target": "m.09nqf-United States dollar-business.business_operation.revenue..measurement_unit.dated_money_value.currency"
       }
     ],
@@ -1847,8 +1847,8 @@
         "playcount": 10
       },
       {
-        "artist": "RELATION",
-        "id": "symbols.namesake.named_after",
+        "artist": "after",
+        "id": "m.0cwx_-symbols.namesake.named_after-",
         "match": 1.0,
         "name": "namesake-named-after",
         "playcount": 8
@@ -1875,8 +1875,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.university.local_tuition..measurement_unit.dated_money_value.amount",
+        "artist": "amount",
+        "id": "m.0cwx_-education.university.local_tuition..measurement_unit.dated_money_value.amount-",
         "match": 1.0,
         "name": "dated-money-value-amount",
         "playcount": 8
@@ -1889,8 +1889,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.university.fraternities_and_sororities",
+        "artist": "sororities",
+        "id": "m.0cwx_-education.university.fraternities_and_sororities-",
         "match": 1.0,
         "name": "university-fraternities-and-sororities",
         "playcount": 8
@@ -2015,8 +2015,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.organization.leadership..organization.leadership.from",
+        "artist": "from",
+        "id": "m.0cwx_-organization.organization.leadership..organization.leadership.from-",
         "match": 1.0,
         "name": "leadership-from",
         "playcount": 8
@@ -2029,8 +2029,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.non_profit_organization.registered_with..organization.non_profit_registration.date_registered",
+        "artist": "registered",
+        "id": "m.0cwx_-organization.non_profit_organization.registered_with..organization.non_profit_registration.date_registered-",
         "match": 1.0,
         "name": "non-profit-registration-date-registered",
         "playcount": 8
@@ -2043,8 +2043,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.educational_institution.campuses",
+        "artist": "campuses",
+        "id": "m.0cwx_-education.educational_institution.campuses-",
         "match": 1.0,
         "name": "educational-institution-campuses",
         "playcount": 8
@@ -2057,8 +2057,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "medicine.cancer_center_constituent.cancer_center",
+        "artist": "center",
+        "id": "m.0cwx_-medicine.cancer_center_constituent.cancer_center-",
         "match": 1.0,
         "name": "cancer-center-constituent-cancer-center",
         "playcount": 8
@@ -2071,8 +2071,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.organization.headquarters..location.mailing_address.citytown",
+        "artist": "citytown",
+        "id": "m.0cwx_-organization.organization.headquarters..location.mailing_address.citytown-",
         "match": 1.0,
         "name": "mailing-address-citytown",
         "playcount": 8
@@ -2085,8 +2085,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "location.location.containedby",
+        "artist": "containedby",
+        "id": "m.0cwx_-location.location.containedby-",
         "match": 1.0,
         "name": "location-containedby",
         "playcount": 8
@@ -2113,8 +2113,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.educational_institution.total_enrollment..measurement_unit.dated_integer.number",
+        "artist": "number",
+        "id": "m.0cwx_-education.educational_institution.total_enrollment..measurement_unit.dated_integer.number-",
         "match": 1.0,
         "name": "dated-integer-number",
         "playcount": 8
@@ -2134,8 +2134,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.organization_member.member_of..organization.organization_membership.organization",
+        "artist": "organization",
+        "id": "m.0cwx_-organization.organization_member.member_of..organization.organization_membership.organization-",
         "match": 1.0,
         "name": "organization-membership-organization",
         "playcount": 8
@@ -2148,8 +2148,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "base.ontologies.ontology_instance.equivalent_instances..base.ontologies.ontology_instance_mapping.uri",
+        "artist": "uri",
+        "id": "m.0cwx_-base.ontologies.ontology_instance.equivalent_instances..base.ontologies.ontology_instance_mapping.uri-",
         "match": 1.0,
         "name": "ontology-instance-mapping-uri",
         "playcount": 8
@@ -2162,8 +2162,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.university.local_tuition..measurement_unit.dated_money_value.valid_date",
+        "artist": "date",
+        "id": "m.0cwx_-education.university.local_tuition..measurement_unit.dated_money_value.valid_date-",
         "match": 1.0,
         "name": "dated-money-value-valid-date",
         "playcount": 8
@@ -2176,8 +2176,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.educational_institution.phone_number..common.phone_number.number",
+        "artist": "number",
+        "id": "m.0cwx_-education.educational_institution.phone_number..common.phone_number.number-",
         "match": 1.0,
         "name": "phone-number-number",
         "playcount": 8
@@ -2190,8 +2190,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.educational_institution.students_graduates..education.education.degree",
+        "artist": "degree",
+        "id": "m.0cwx_-education.educational_institution.students_graduates..education.education.degree-",
         "match": 1.0,
         "name": "education-degree",
         "playcount": 8
@@ -2309,8 +2309,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "business.business_operation.assets..measurement_unit.dated_money_value.valid_date",
+        "artist": "date",
+        "id": "m.0cwx_-business.business_operation.assets..measurement_unit.dated_money_value.valid_date-",
         "match": 1.0,
         "name": "dated-money-value-valid-date",
         "playcount": 8
@@ -2323,8 +2323,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "business.business_operation.revenue..measurement_unit.dated_money_value.valid_date",
+        "artist": "date",
+        "id": "m.0cwx_-business.business_operation.revenue..measurement_unit.dated_money_value.valid_date-",
         "match": 1.0,
         "name": "dated-money-value-valid-date",
         "playcount": 8
@@ -2337,8 +2337,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.educational_institution.students_graduates..education.education.end_date",
+        "artist": "date",
+        "id": "m.0cwx_-education.educational_institution.students_graduates..education.education.end_date-",
         "match": 1.0,
         "name": "education-end-date",
         "playcount": 8
@@ -2491,8 +2491,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.educational_institution.students_graduates..education.education.major_field_of_study",
+        "artist": "study",
+        "id": "m.0cwx_-education.educational_institution.students_graduates..education.education.major_field_of_study-",
         "match": 1.0,
         "name": "education-major-field-of-study",
         "playcount": 8
@@ -2645,8 +2645,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.university.local_tuition..measurement_unit.dated_money_value.currency",
+        "artist": "currency",
+        "id": "m.0cwx_-education.university.local_tuition..measurement_unit.dated_money_value.currency-",
         "match": 1.0,
         "name": "dated-money-value-currency",
         "playcount": 8
@@ -2659,8 +2659,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "base.technologyofdoing.proposal_agent.practices",
+        "artist": "practices",
+        "id": "m.0cwx_-base.technologyofdoing.proposal_agent.practices-",
         "match": 1.0,
         "name": "proposal-agent-practices",
         "playcount": 8
@@ -2680,8 +2680,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "location.location.adjoin_s..location.adjoining_relationship.adjoins",
+        "artist": "adjoins",
+        "id": "m.0cwx_-location.location.adjoin_s..location.adjoining_relationship.adjoins-",
         "match": 1.0,
         "name": "adjoining-relationship-adjoins",
         "playcount": 8
@@ -2729,8 +2729,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.endowed_organization.endowment..measurement_unit.dated_money_value.amount",
+        "artist": "amount",
+        "id": "m.0cwx_-organization.endowed_organization.endowment..measurement_unit.dated_money_value.amount-",
         "match": 1.0,
         "name": "dated-money-value-amount",
         "playcount": 8
@@ -2743,8 +2743,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "location.location.geolocation..location.geocode.longitude",
+        "artist": "longitude",
+        "id": "m.0cwx_-location.location.geolocation..location.geocode.longitude-",
         "match": 1.0,
         "name": "geocode-longitude",
         "playcount": 8
@@ -2757,8 +2757,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.organization.headquarters..location.mailing_address.postal_code",
+        "artist": "code",
+        "id": "m.0cwx_-organization.organization.headquarters..location.mailing_address.postal_code-",
         "match": 1.0,
         "name": "mailing-address-postal-code",
         "playcount": 8
@@ -2771,8 +2771,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.organization.leadership..organization.leadership.title",
+        "artist": "title",
+        "id": "m.0cwx_-organization.organization.leadership..organization.leadership.title-",
         "match": 1.0,
         "name": "leadership-title",
         "playcount": 8
@@ -2785,8 +2785,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "common.topic.official_website",
+        "artist": "website",
+        "id": "m.0cwx_-common.topic.official_website-",
         "match": 1.0,
         "name": "topic-official-website",
         "playcount": 8
@@ -2799,8 +2799,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.university.number_of_undergraduates..measurement_unit.dated_integer.year",
+        "artist": "year",
+        "id": "m.0cwx_-education.university.number_of_undergraduates..measurement_unit.dated_integer.year-",
         "match": 1.0,
         "name": "dated-integer-year",
         "playcount": 8
@@ -2827,8 +2827,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "internet.website_owner.websites_owned_new..internet.website_ownership.website",
+        "artist": "website",
+        "id": "m.0cwx_-internet.website_owner.websites_owned_new..internet.website_ownership.website-",
         "match": 1.0,
         "name": "website-ownership-website",
         "playcount": 8
@@ -2841,8 +2841,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.educational_institution.students_graduates..education.education.student",
+        "artist": "student",
+        "id": "m.0cwx_-education.educational_institution.students_graduates..education.education.student-",
         "match": 1.0,
         "name": "education-student",
         "playcount": 8
@@ -2995,8 +2995,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.organization.headquarters..location.mailing_address.state_province_region",
+        "artist": "region",
+        "id": "m.0cwx_-organization.organization.headquarters..location.mailing_address.state_province_region-",
         "match": 1.0,
         "name": "mailing-address-state-province-region",
         "playcount": 8
@@ -3009,8 +3009,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.university.number_of_undergraduates..measurement_unit.dated_integer.number",
+        "artist": "number",
+        "id": "m.0cwx_-education.university.number_of_undergraduates..measurement_unit.dated_integer.number-",
         "match": 1.0,
         "name": "dated-integer-number",
         "playcount": 8
@@ -3051,8 +3051,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.educational_institution.phone_number..common.phone_number.country_code",
+        "artist": "code",
+        "id": "m.0cwx_-education.educational_institution.phone_number..common.phone_number.country_code-",
         "match": 1.0,
         "name": "phone-number-country-code",
         "playcount": 8
@@ -3065,8 +3065,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "common.topic.webpage..common.webpage.uri",
+        "artist": "uri",
+        "id": "m.0cwx_-common.topic.webpage..common.webpage.uri-",
         "match": 1.0,
         "name": "webpage-uri",
         "playcount": 8
@@ -3086,8 +3086,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.educational_institution.motto",
+        "artist": "motto",
+        "id": "m.0cwx_-education.educational_institution.motto-",
         "match": 1.0,
         "name": "educational-institution-motto",
         "playcount": 8
@@ -3100,8 +3100,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.organization.leadership..organization.leadership.role",
+        "artist": "role",
+        "id": "m.0cwx_-organization.organization.leadership..organization.leadership.role-",
         "match": 1.0,
         "name": "leadership-role",
         "playcount": 8
@@ -3114,8 +3114,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.organization.board_members..organization.organization_board_membership.member",
+        "artist": "member",
+        "id": "m.0cwx_-organization.organization.board_members..organization.organization_board_membership.member-",
         "match": 1.0,
         "name": "organization-board-membership-member",
         "playcount": 8
@@ -3156,8 +3156,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.non_profit_organization.registered_with..organization.non_profit_registration.registered_as",
+        "artist": "as",
+        "id": "m.0cwx_-organization.non_profit_organization.registered_with..organization.non_profit_registration.registered_as-",
         "match": 1.0,
         "name": "non-profit-registration-registered-as",
         "playcount": 8
@@ -3170,8 +3170,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.non_profit_organization.registered_with..organization.non_profit_registration.registering_agency",
+        "artist": "agency",
+        "id": "m.0cwx_-organization.non_profit_organization.registered_with..organization.non_profit_registration.registering_agency-",
         "match": 1.0,
         "name": "non-profit-registration-registering-agency",
         "playcount": 8
@@ -3184,8 +3184,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "business.employer.employees..business.employment_tenure.from",
+        "artist": "from",
+        "id": "m.0cwx_-business.employer.employees..business.employment_tenure.from-",
         "match": 1.0,
         "name": "employment-tenure-from",
         "playcount": 8
@@ -3338,8 +3338,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.educational_institution.mascot",
+        "artist": "mascot",
+        "id": "m.0cwx_-education.educational_institution.mascot-",
         "match": 1.0,
         "name": "educational-institution-mascot",
         "playcount": 8
@@ -3352,8 +3352,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "business.employer.employees..business.employment_tenure.title",
+        "artist": "title",
+        "id": "m.0cwx_-business.employer.employees..business.employment_tenure.title-",
         "match": 1.0,
         "name": "employment-tenure-title",
         "playcount": 8
@@ -3506,8 +3506,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "business.employer.employees..business.employment_tenure.to",
+        "artist": "to",
+        "id": "m.0cwx_-business.employer.employees..business.employment_tenure.to-",
         "match": 1.0,
         "name": "employment-tenure-to",
         "playcount": 8
@@ -3660,8 +3660,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.organization.board_members..organization.organization_board_membership.title",
+        "artist": "title",
+        "id": "m.0cwx_-organization.organization.board_members..organization.organization_board_membership.title-",
         "match": 1.0,
         "name": "organization-board-membership-title",
         "playcount": 8
@@ -3681,8 +3681,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "common.topic.webpage..common.webpage.category",
+        "artist": "category",
+        "id": "m.0cwx_-common.topic.webpage..common.webpage.category-",
         "match": 1.0,
         "name": "webpage-category",
         "playcount": 8
@@ -3702,8 +3702,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.educational_institution.colors",
+        "artist": "colors",
+        "id": "m.0cwx_-education.educational_institution.colors-",
         "match": 1.0,
         "name": "educational-institution-colors",
         "playcount": 8
@@ -3730,8 +3730,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "award.ranked_item.appears_in_ranked_lists..award.ranking.list",
+        "artist": "list",
+        "id": "m.0cwx_-award.ranked_item.appears_in_ranked_lists..award.ranking.list-",
         "match": 1.0,
         "name": "ranking-list",
         "playcount": 8
@@ -3765,8 +3765,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.educational_institution.total_enrollment..measurement_unit.dated_integer.year",
+        "artist": "year",
+        "id": "m.0cwx_-education.educational_institution.total_enrollment..measurement_unit.dated_integer.year-",
         "match": 1.0,
         "name": "dated-integer-year",
         "playcount": 8
@@ -3786,8 +3786,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "base.schemastaging.educational_institution_extra.libraries",
+        "artist": "libraries",
+        "id": "m.0cwx_-base.schemastaging.educational_institution_extra.libraries-",
         "match": 1.0,
         "name": "educational-institution-extra-libraries",
         "playcount": 8
@@ -3814,8 +3814,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.organization.date_founded",
+        "artist": "founded",
+        "id": "m.0cwx_-organization.organization.date_founded-",
         "match": 1.0,
         "name": "organization-date-founded",
         "playcount": 8
@@ -3828,8 +3828,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.organization.leadership..organization.leadership.person",
+        "artist": "person",
+        "id": "m.0cwx_-organization.organization.leadership..organization.leadership.person-",
         "match": 1.0,
         "name": "leadership-person",
         "playcount": 8
@@ -3842,8 +3842,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "award.ranked_item.appears_in_ranked_lists..award.ranking.year",
+        "artist": "year",
+        "id": "m.0cwx_-award.ranked_item.appears_in_ranked_lists..award.ranking.year-",
         "match": 1.0,
         "name": "ranking-year",
         "playcount": 8
@@ -3870,8 +3870,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.university.number_of_postgraduates..measurement_unit.dated_integer.year",
+        "artist": "year",
+        "id": "m.0cwx_-education.university.number_of_postgraduates..measurement_unit.dated_integer.year-",
         "match": 1.0,
         "name": "dated-integer-year",
         "playcount": 8
@@ -3898,8 +3898,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "business.business_operation.operating_income..measurement_unit.dated_money_value.currency",
+        "artist": "currency",
+        "id": "m.0cwx_-business.business_operation.operating_income..measurement_unit.dated_money_value.currency-",
         "match": 1.0,
         "name": "dated-money-value-currency",
         "playcount": 8
@@ -3912,8 +3912,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.university.domestic_tuition..measurement_unit.dated_money_value.amount",
+        "artist": "amount",
+        "id": "m.0cwx_-education.university.domestic_tuition..measurement_unit.dated_money_value.amount-",
         "match": 1.0,
         "name": "dated-money-value-amount",
         "playcount": 8
@@ -3947,8 +3947,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "business.employer.employees..business.employment_tenure.person",
+        "artist": "person",
+        "id": "m.0cwx_-business.employer.employees..business.employment_tenure.person-",
         "match": 1.0,
         "name": "employment-tenure-person",
         "playcount": 8
@@ -4101,8 +4101,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.university.acceptance_rate..education.acceptance_rate.rate",
+        "artist": "rate",
+        "id": "m.0cwx_-education.university.acceptance_rate..education.acceptance_rate.rate-",
         "match": 1.0,
         "name": "acceptance-rate-rate",
         "playcount": 8
@@ -4122,8 +4122,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.university.number_of_postgraduates..measurement_unit.dated_integer.number",
+        "artist": "number",
+        "id": "m.0cwx_-education.university.number_of_postgraduates..measurement_unit.dated_integer.number-",
         "match": 1.0,
         "name": "dated-integer-number",
         "playcount": 8
@@ -4164,8 +4164,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.university.domestic_tuition..measurement_unit.dated_money_value.valid_date",
+        "artist": "date",
+        "id": "m.0cwx_-education.university.domestic_tuition..measurement_unit.dated_money_value.valid_date-",
         "match": 1.0,
         "name": "dated-money-value-valid-date",
         "playcount": 8
@@ -4199,8 +4199,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.university.domestic_tuition..measurement_unit.dated_money_value.currency",
+        "artist": "currency",
+        "id": "m.0cwx_-education.university.domestic_tuition..measurement_unit.dated_money_value.currency-",
         "match": 1.0,
         "name": "dated-money-value-currency",
         "playcount": 8
@@ -4213,8 +4213,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.educational_institution.subsidiary_or_constituent_schools",
+        "artist": "schools",
+        "id": "m.0cwx_-education.educational_institution.subsidiary_or_constituent_schools-",
         "match": 1.0,
         "name": "educational-institution-subsidiary-or-constituent-schools",
         "playcount": 8
@@ -4276,8 +4276,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.educational_institution.students_graduates..education.education.specialization",
+        "artist": "specialization",
+        "id": "m.0cwx_-education.educational_institution.students_graduates..education.education.specialization-",
         "match": 1.0,
         "name": "education-specialization",
         "playcount": 8
@@ -4318,8 +4318,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "common.topic.topical_webpage",
+        "artist": "webpage",
+        "id": "m.0cwx_-common.topic.topical_webpage-",
         "match": 1.0,
         "name": "topic-topical-webpage",
         "playcount": 8
@@ -4332,8 +4332,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.organization.headquarters..location.mailing_address.street_address",
+        "artist": "address",
+        "id": "m.0cwx_-organization.organization.headquarters..location.mailing_address.street_address-",
         "match": 1.0,
         "name": "mailing-address-street-address",
         "playcount": 8
@@ -4346,8 +4346,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.organization.child..organization.organization_relationship.child",
+        "artist": "child",
+        "id": "m.0cwx_-organization.organization.child..organization.organization_relationship.child-",
         "match": 1.0,
         "name": "organization-relationship-child",
         "playcount": 8
@@ -4374,8 +4374,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "book.book_subject.works",
+        "artist": "works",
+        "id": "m.0cwx_-book.book_subject.works-",
         "match": 1.0,
         "name": "book-subject-works",
         "playcount": 8
@@ -4388,8 +4388,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "common.topic.social_media_presence",
+        "artist": "presence",
+        "id": "m.0cwx_-common.topic.social_media_presence-",
         "match": 1.0,
         "name": "topic-social-media-presence",
         "playcount": 8
@@ -4402,8 +4402,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "business.business_operation.operating_income..measurement_unit.dated_money_value.valid_date",
+        "artist": "date",
+        "id": "m.0cwx_-business.business_operation.operating_income..measurement_unit.dated_money_value.valid_date-",
         "match": 1.0,
         "name": "dated-money-value-valid-date",
         "playcount": 8
@@ -4416,8 +4416,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "location.location.contains",
+        "artist": "contains",
+        "id": "m.0cwx_-location.location.contains-",
         "match": 1.0,
         "name": "location-contains",
         "playcount": 8
@@ -4514,8 +4514,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "common.topic.alias",
+        "artist": "alias",
+        "id": "m.0cwx_-common.topic.alias-",
         "match": 1.0,
         "name": "topic-alias",
         "playcount": 8
@@ -4542,8 +4542,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.organization_member.member_of..organization.organization_membership.from",
+        "artist": "from",
+        "id": "m.0cwx_-organization.organization_member.member_of..organization.organization_membership.from-",
         "match": 1.0,
         "name": "organization-membership-from",
         "playcount": 8
@@ -4556,8 +4556,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.educational_institution.school_type",
+        "artist": "type",
+        "id": "m.0cwx_-education.educational_institution.school_type-",
         "match": 1.0,
         "name": "educational-institution-school-type",
         "playcount": 8
@@ -4577,8 +4577,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.university.acceptance_rate..education.acceptance_rate.year",
+        "artist": "year",
+        "id": "m.0cwx_-education.university.acceptance_rate..education.acceptance_rate.year-",
         "match": 1.0,
         "name": "acceptance-rate-year",
         "playcount": 8
@@ -4598,8 +4598,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "internet.website_owner.websites_owned",
+        "artist": "owned",
+        "id": "m.0cwx_-internet.website_owner.websites_owned-",
         "match": 1.0,
         "name": "website-owner-websites-owned",
         "playcount": 8
@@ -4612,8 +4612,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.educational_institution.students_graduates..education.education.start_date",
+        "artist": "date",
+        "id": "m.0cwx_-education.educational_institution.students_graduates..education.education.start_date-",
         "match": 1.0,
         "name": "education-start-date",
         "playcount": 8
@@ -4696,8 +4696,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.organization.founders",
+        "artist": "founders",
+        "id": "m.0cwx_-organization.organization.founders-",
         "match": 1.0,
         "name": "organization-founders",
         "playcount": 8
@@ -4710,8 +4710,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.organization.headquarters..location.mailing_address.country",
+        "artist": "country",
+        "id": "m.0cwx_-organization.organization.headquarters..location.mailing_address.country-",
         "match": 1.0,
         "name": "mailing-address-country",
         "playcount": 8
@@ -4724,8 +4724,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.endowed_organization.endowment..measurement_unit.dated_money_value.currency",
+        "artist": "currency",
+        "id": "m.0cwx_-organization.endowed_organization.endowment..measurement_unit.dated_money_value.currency-",
         "match": 1.0,
         "name": "dated-money-value-currency",
         "playcount": 8
@@ -4738,8 +4738,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.educational_institution.newspaper",
+        "artist": "newspaper",
+        "id": "m.0cwx_-education.educational_institution.newspaper-",
         "match": 1.0,
         "name": "educational-institution-newspaper",
         "playcount": 8
@@ -4766,8 +4766,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "location.location.time_zones",
+        "artist": "zones",
+        "id": "m.0cwx_-location.location.time_zones-",
         "match": 1.0,
         "name": "location-time-zones",
         "playcount": 8
@@ -4780,8 +4780,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.educational_institution_campus.educational_institution",
+        "artist": "institution",
+        "id": "m.0cwx_-education.educational_institution_campus.educational_institution-",
         "match": 1.0,
         "name": "educational-institution-campus-educational-institution",
         "playcount": 8
@@ -4794,8 +4794,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "common.topic.webpage..common.webpage.description",
+        "artist": "description",
+        "id": "m.0cwx_-common.topic.webpage..common.webpage.description-",
         "match": 1.0,
         "name": "webpage-description",
         "playcount": 8
@@ -4815,8 +4815,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "film.film_location.featured_in_films",
+        "artist": "films",
+        "id": "m.0cwx_-film.film_location.featured_in_films-",
         "match": 1.0,
         "name": "film-location-featured-in-films",
         "playcount": 8
@@ -4843,8 +4843,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "base.ontologies.ontology_instance.equivalent_instances..base.ontologies.ontology_instance_mapping.ontology",
+        "artist": "ontology",
+        "id": "m.0cwx_-base.ontologies.ontology_instance.equivalent_instances..base.ontologies.ontology_instance_mapping.ontology-",
         "match": 1.0,
         "name": "ontology-instance-mapping-ontology",
         "playcount": 8
@@ -4857,8 +4857,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "common.topic.webpage..common.webpage.resource",
+        "artist": "resource",
+        "id": "m.0cwx_-common.topic.webpage..common.webpage.resource-",
         "match": 1.0,
         "name": "webpage-resource",
         "playcount": 8
@@ -4878,8 +4878,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "base.schemastaging.non_profit_extra.classification",
+        "artist": "classification",
+        "id": "m.0cwx_-base.schemastaging.non_profit_extra.classification-",
         "match": 1.0,
         "name": "non-profit-extra-classification",
         "playcount": 8
@@ -4892,8 +4892,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "business.business_operation.revenue..measurement_unit.dated_money_value.amount",
+        "artist": "amount",
+        "id": "m.0cwx_-business.business_operation.revenue..measurement_unit.dated_money_value.amount-",
         "match": 1.0,
         "name": "dated-money-value-amount",
         "playcount": 8
@@ -4906,8 +4906,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "business.business_operation.operating_income..measurement_unit.dated_money_value.amount",
+        "artist": "amount",
+        "id": "m.0cwx_-business.business_operation.operating_income..measurement_unit.dated_money_value.amount-",
         "match": 1.0,
         "name": "dated-money-value-amount",
         "playcount": 8
@@ -4920,8 +4920,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "business.business_operation.assets..measurement_unit.dated_money_value.currency",
+        "artist": "currency",
+        "id": "m.0cwx_-business.business_operation.assets..measurement_unit.dated_money_value.currency-",
         "match": 1.0,
         "name": "dated-money-value-currency",
         "playcount": 8
@@ -4934,8 +4934,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "location.location.geolocation..location.geocode.latitude",
+        "artist": "latitude",
+        "id": "m.0cwx_-location.location.geolocation..location.geocode.latitude-",
         "match": 1.0,
         "name": "geocode-latitude",
         "playcount": 8
@@ -4948,8 +4948,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "education.educational_institution.students_graduates..education.education.minor",
+        "artist": "minor",
+        "id": "m.0cwx_-education.educational_institution.students_graduates..education.education.minor-",
         "match": 1.0,
         "name": "education-minor",
         "playcount": 8
@@ -4969,8 +4969,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "base.jewlib.parent_institution.judaica_owning_units",
+        "artist": "units",
+        "id": "m.0cwx_-base.jewlib.parent_institution.judaica_owning_units-",
         "match": 1.0,
         "name": "parent-institution-judaica-owning-units",
         "playcount": 8
@@ -4983,8 +4983,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "award.ranked_item.appears_in_ranked_lists..award.ranking.rank",
+        "artist": "rank",
+        "id": "m.0cwx_-award.ranked_item.appears_in_ranked_lists..award.ranking.rank-",
         "match": 1.0,
         "name": "ranking-rank",
         "playcount": 8
@@ -5018,8 +5018,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "type.object.name",
+        "artist": "name",
+        "id": "m.0cwx_-type.object.name-",
         "match": 1.0,
         "name": "object-name",
         "playcount": 8
@@ -5032,8 +5032,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "business.business_operation.assets..measurement_unit.dated_money_value.amount",
+        "artist": "amount",
+        "id": "m.0cwx_-business.business_operation.assets..measurement_unit.dated_money_value.amount-",
         "match": 1.0,
         "name": "dated-money-value-amount",
         "playcount": 8
@@ -5046,8 +5046,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "business.business_operation.revenue..measurement_unit.dated_money_value.currency",
+        "artist": "currency",
+        "id": "m.0cwx_-business.business_operation.revenue..measurement_unit.dated_money_value.currency-",
         "match": 1.0,
         "name": "dated-money-value-currency",
         "playcount": 8
@@ -5065,98 +5065,98 @@
     "links": [
       {
         "source": "m.0cwx_top",
-        "target": "organization.organization.headquarters..location.mailing_address.state_province_regiontop"
+        "target": "m.0cwx_-organization.organization.headquarters..location.mailing_address.state_province_region-toptop"
       },
       {
-        "source": "organization.organization.headquarters..location.mailing_address.state_province_regiontop",
+        "source": "m.0cwx_-organization.organization.headquarters..location.mailing_address.state_province_region-toptop",
         "target": "m.05tbn-Pennsylvania-organization.organization.headquarters..location.mailing_address.state_province_regiontop"
       },
       {
         "source": "m.0cwx_top",
-        "target": "organization.organization.headquarters..location.mailing_address.countrytop"
+        "target": "m.0cwx_-organization.organization.headquarters..location.mailing_address.country-toptop"
       },
       {
-        "source": "organization.organization.headquarters..location.mailing_address.countrytop",
+        "source": "m.0cwx_-organization.organization.headquarters..location.mailing_address.country-toptop",
         "target": "m.09c7w0-United States of America-organization.organization.headquarters..location.mailing_address.countrytop"
       },
       {
         "source": "m.0cwx_top",
-        "target": "organization.organization.headquarters..location.mailing_address.citytowntop"
+        "target": "m.0cwx_-organization.organization.headquarters..location.mailing_address.citytown-toptop"
       },
       {
-        "source": "organization.organization.headquarters..location.mailing_address.citytowntop",
+        "source": "m.0cwx_-organization.organization.headquarters..location.mailing_address.citytown-toptop",
         "target": "m.068p2-Pittsburgh-organization.organization.headquarters..location.mailing_address.citytowntop"
       },
       {
         "source": "m.0cwx_top",
-        "target": "location.location.containedbytop"
+        "target": "m.0cwx_-location.location.containedby-toptop"
       },
       {
-        "source": "location.location.containedbytop",
+        "source": "m.0cwx_-location.location.containedby-toptop",
         "target": "m.05tbn-Pennsylvania-location.location.containedbytop"
       },
       {
-        "source": "location.location.containedbytop",
+        "source": "m.0cwx_-location.location.containedby-toptop",
         "target": "m.068p2-Pittsburgh-location.location.containedbytop"
       },
       {
-        "source": "location.location.containedbytop",
+        "source": "m.0cwx_-location.location.containedby-toptop",
         "target": "m.09c7w0-United States of America-location.location.containedbytop"
       },
       {
         "source": "m.0cwx_top",
-        "target": "location.location.containstop"
+        "target": "m.0cwx_-location.location.contains-toptop"
       },
       {
-        "source": "location.location.containstop",
+        "source": "m.0cwx_-location.location.contains-toptop",
         "target": "m.03xkgl2-Wean Hall-location.location.containstop"
       },
       {
-        "source": "location.location.containstop",
+        "source": "m.0cwx_-location.location.contains-toptop",
         "target": "m.040_683-Collaborative Innovation Center-location.location.containstop"
       },
       {
-        "source": "location.location.containstop",
+        "source": "m.0cwx_-location.location.contains-toptop",
         "target": "m.03xkgkx-Baker Hall-location.location.containstop"
       },
       {
-        "source": "location.location.containstop",
+        "source": "m.0cwx_-location.location.contains-toptop",
         "target": "m.03xkgl8-Porter Hall-location.location.containstop"
       },
       {
-        "source": "location.location.containstop",
+        "source": "m.0cwx_-location.location.contains-toptop",
         "target": "m.040_654-Roberts Engineering Hall-location.location.containstop"
       },
       {
-        "source": "location.location.containstop",
+        "source": "m.0cwx_-location.location.contains-toptop",
         "target": "m.040_65b-Hunt Library-location.location.containstop"
       },
       {
-        "source": "location.location.containstop",
+        "source": "m.0cwx_-location.location.contains-toptop",
         "target": "m.040_66_-Newell-Simon Hall-location.location.containstop"
       },
       {
-        "source": "location.location.containstop",
+        "source": "m.0cwx_-location.location.contains-toptop",
         "target": "m.040_675-Hamerschlag Hall-location.location.containstop"
       },
       {
-        "source": "location.location.containstop",
+        "source": "m.0cwx_-location.location.contains-toptop",
         "target": "m.040_67c-Hamburg Hall-location.location.containstop"
       },
       {
-        "source": "location.location.containstop",
+        "source": "m.0cwx_-location.location.contains-toptop",
         "target": "m.040_67k-Cyert Hall-location.location.containstop"
       },
       {
-        "source": "location.location.containstop",
+        "source": "m.0cwx_-location.location.contains-toptop",
         "target": "m.040_67r-Scaife Hall-location.location.containstop"
       },
       {
-        "source": "location.location.containstop",
+        "source": "m.0cwx_-location.location.contains-toptop",
         "target": "m.040_67y-Posner Hall-location.location.containstop"
       },
       {
-        "source": "location.location.containstop",
+        "source": "m.0cwx_-location.location.contains-toptop",
         "target": "m.040_64z-Doherty Hall-location.location.containstop"
       }
     ],
@@ -5169,8 +5169,8 @@
         "playcount": 10
       },
       {
-        "artist": "RELATION",
-        "id": "organization.organization.headquarters..location.mailing_address.state_province_regiontop",
+        "artist": "region",
+        "id": "m.0cwx_-organization.organization.headquarters..location.mailing_address.state_province_region-toptop",
         "match": 1.0,
         "name": "mailing-address-state-province-region",
         "playcount": 10
@@ -5183,8 +5183,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.organization.headquarters..location.mailing_address.countrytop",
+        "artist": "country",
+        "id": "m.0cwx_-organization.organization.headquarters..location.mailing_address.country-toptop",
         "match": 1.0,
         "name": "mailing-address-country",
         "playcount": 9
@@ -5197,8 +5197,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "organization.organization.headquarters..location.mailing_address.citytowntop",
+        "artist": "citytown",
+        "id": "m.0cwx_-organization.organization.headquarters..location.mailing_address.citytown-toptop",
         "match": 1.0,
         "name": "mailing-address-citytown",
         "playcount": 8
@@ -5211,8 +5211,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "location.location.containedbytop",
+        "artist": "containedby",
+        "id": "m.0cwx_-location.location.containedby-toptop",
         "match": 1.0,
         "name": "location-containedby",
         "playcount": 7
@@ -5239,8 +5239,8 @@
         "playcount": 5
       },
       {
-        "artist": "RELATION",
-        "id": "location.location.containstop",
+        "artist": "contains",
+        "id": "m.0cwx_-location.location.contains-toptop",
         "match": 1.0,
         "name": "location-contains",
         "playcount": 6
