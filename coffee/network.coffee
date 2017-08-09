@@ -276,7 +276,7 @@ Network = () ->
     # from search
     network.updateSearch = (searchTerm) ->
         http.get {
-            url: 'https://ec2-54-86-176-76.compute-1.amazonaws.com:443/network/' + searchTerm,
+            url: 'https://ec2-34-205-129-239.compute-1.amazonaws.com:443/network/' + searchTerm,
             dataType: 'json'
         }, (code, data) ->
 
